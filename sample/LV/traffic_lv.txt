@@ -1,0 +1,165 @@
+﻿1.pants. Likumā lietotie termini 
+
+Likumā ir lietoti šādi termini: 
+
+1) ceļa īpašnieks — valsts, pašvaldība, fiziskā vai juridiskā persona, kurai attiecīgais ceļš pieder uz īpašuma tiesību pamata; 
+
+2) ceļa pārvaldītājs — īpašnieks vai cita fiziskā vai juridiskā persona, kurai attiecīgais ceļš nodots pārvaldījumā (pārziņā); 
+
+3) ceļš — jebkura satiksmei izbūvēta teritorija (autoceļš, iela, prospekts, šķērsiela un tamlīdzīgas teritorijas visā platumā, ieskaitot brauktuvi, ietves, nomales, sadalošās joslas un saliņas). Ceļa kompleksā ietilpst ceļš, mākslīgās būves (tilti, satiksmes pārvadi, tuneļi, caurtekas, ūdens novadīšanas ietaises, atbalsta sienas un citas būves), ceļu inženierbūves (pasažieru sabiedrisko transportlīdzekļu pieturvietas un paviljoni, bremzēšanas un paātrinājuma joslas, transportlīdzekļu stāvvietas, atpūtas laukumi, veloceliņi un ietves, ceļu sakaru un apgaismojuma līnijas un citas inženierbūves), satiksmes organizācijas tehniskie līdzekļi (ceļa zīmes, luksofori, signālstabiņi, aizsargbarjeras, gājēju barjeras, vertikālie un horizontālie ceļa apzīmējumi un citi tehniskie līdzekļi); 
+
+4) ceļu drošības audits — neatkarīga un sistemātiska projektu (arī būvprojektu) un ceļu tīkla pārbaudes procedūra, kurā no satiksmes drošības viedokļa novērtē potenciālās bīstamās vietas, kur var veidoties konfliktsituācijas, kā arī esošās bīstamās vietas un posmus un par kuras rezultātiem sastāda audita atzinumu; 
+
+5) ceļu satiksme — attiecības, kas rodas, pārvietojoties pa ceļiem ar transportlīdzekļiem vai bez tiem; 
+
+6) ceļu satiksmes dalībnieks — jebkura persona, kas atrodas uz ceļa vai tieši piedalās ceļu satiksmē; 
+
+7) ceļu satiksmes negadījums — ceļu satiksmē noticis nelaimes gadījums, kurā iesaistīts vismaz viens transportlīdzeklis un kura rezultātā cilvēks gājis bojā, viņam nodarīti miesas bojājumi vai arī nodarīti zaudējumi fiziskās vai juridiskās personas mantai vai videi, kā arī citā vietā, kur iespējama transportlīdzekļa braukšana, noticis negadījums, kurā iesaistīts transportlīdzeklis; 
+
+8) Ceļu satiksmes noteikumi — Ministru kabineta normatīvais akts, kas nosaka ceļu satiksmes kārtību un ir saistošs visām fiziskajām un juridiskajām personām; 
+
+9) diennakts tumšais laiks — laiks no vakara krēslas iestāšanās līdz rīta krēslas izzušanai; 
+
+10) gājējs — persona, kas pārvietojas pa ceļu kājām vai invalīdu ratiņos. Šis termins neattiecas uz personām, kas veic darbus uz brauktuves, un uz satiksmes regulētājiem; 
+
+11) mehāniskais transportlīdzeklis — pašgājējs transportlīdzeklis, traktortehnika, kas pārvietojas pa ceļu ar savu enerģiju, izņemot mopēdus un sliežu transportlīdzekļus, kā arī trolejbuss; 
+
+12) mopēds — divriteņu, trīsriteņu vai četrriteņu transportlīdzeklis, kura motora darba tilpums ir mazāks par 50 kubikcentimetriem (dzirksteļaizdedzes tipa motoriem) vai kura maksimālā jauda ir mazāka par 4 kW (elektromotoriem vai cita veida iekšdedzes tipa motoriem) un konstrukcijā paredzētais maksimālais ātrums nepārsniedz 45 kilometrus stundā; 
+
+13) motocikls — divriteņu mehāniskais transportlīdzeklis ar blakusvāģi vai bez tā. Šis termins attiecas arī uz sniega motocikliem; 
+
+14) nepietiekama redzamība — tādi laikapstākļi (migla, lietus, sniegs un tamlīdzīgi apstākļi), kuru dēļ redzamība uz ceļa ir tuvāka par 300 metriem, arī mijkrēslis; 
+
+15) operatīvais transportlīdzeklis — mehāniskais transportlīdzeklis, kuram noteiktā kārtībā piešķirts operatīvā transportlīdzekļa statuss un kurš piedalās ceļu satiksmē ar iedegtu mirgojošu zilu vai zilu un sarkanu bākuguni un ieslēgtu speciālu skaņas signālu; 
+
+151) palīgmotors — motors, kas iebūvēts transportlīdzeklī vai uzstādīts uz tā, taču netiek izmantots transportlīdzekļa piedziņā; 
+
+16) pasažieris — persona, kas atrodas transportlīdzeklī vai uz tā (izņemot transportlīdzekļa vadītāju), kā arī persona, kas iekāpj transportlīdzeklī vai uzkāpj uz tā, izkāpj no transportlīdzekļa vai nokāpj no tā; 
+
+17) pašmasa — atbilstoši valsts standartam nokomplektēta transportlīdzekļa masa kopā ar vadītāju, bet bez pasažieriem un kravas; 
+
+18) piekabe (puspiekabe) — transportlīdzeklis, kas paredzēts braukšanai savienojumā ar mehānisko transportlīdzekli. Šis termins neattiecas uz motociklu blakusvāģiem; 
+
+19) pilna masa — izgatavotāja noteikta transportlīdzekļa maksimālā pieļaujamā masa kopā ar vadītāju, pasažieriem un kravu. Vilcējam ar piekabi pilna masa ir vilcēja un piekabes pilnu masu summa, bet vilcējam ar puspiekabi — vilcēja pašmasas, pasažieru masas un puspiekabes pilnas masas summa; 
+
+191) specializētais tūristu transportlīdzeklis — mehāniskais transportlīdzeklis, kas savienojumā ar vienu vai vairākām pasažieru pārvadāšanai paredzētām piekabēm brauc pa noteiktu maršrutu; 
+
+192) speciālā traktortehnika — traktortehnika, kuru ražotājs nav paredzējis izmantošanai ceļu satiksmē; 
+
+20) starptautiskie autotransporta pārvadājumi — jebkuri pārvadājumi ar autotransporta līdzekļiem, šķērsojot vismaz vienas valsts robežu; 
+
+21) traktortehnika — traktors, kombains vai cita speciāla pašgājēja mašīna ar iekšdedzes motoru, ja tā nav būvēta uz automobiļa bāzes; 
+
+22) tramvajs — transportlīdzeklis, kas paredzēts braukšanai pa sliedēm savienojumā ar ārēju elektroenerģijas padeves avotu. Šis termins neattiecas uz elektrovilcieniem; 
+
+23) transportlīdzeklis — ierīce, kas pēc savas konstrukcijas paredzēta braukšanai pa ceļiem ar motora palīdzību vai bez motora; 
+
+231) transportlīdzekļa apkalpes loceklis — persona, kura vada transportlīdzekli vai atrodas tajā, lai veiktu pasažieru vai kravas komercpārvadājumu vai pašpārvadājumu tās fiziskās vai juridiskās personas uzdevumā, kura to nodarbina; 
+
+24) transportlīdzekļa īpašnieks — fiziskā vai juridiskā persona, kurai pieder transportlīdzeklis. Par valsts vai pašvaldības transportlīdzekļa īpašnieku šā likuma izpratnē uzskatāma tiešā vai pastarpinātā valsts pārvaldes iestāde, uz kuras vārda transportlīdzeklis reģistrēts; 
+
+25) transportlīdzekļa turētājs — fiziskā vai juridiskā persona, kura uz tiesiska pamata (mantas īres, nomas, patapinājuma līgums u.c.) lieto transportlīdzekli. Par transportlīdzekļa turētāju nav uzskatāma persona, kas transportlīdzekli lieto uz dienesta vai darba tiesisko attiecību pamata; 
+
+26) transportlīdzekļa uzskaites tehniskie dati — tehnisko datu kopums, kas nepieciešams transportlīdzekļa reģistrācijai; 
+
+27) transportlīdzekļa vadītāja veselības pirmstermiņa pārbaude — veselības pārbaude, lai noteiktu medicīnisko pretindikāciju esamību, ja transportlīdzekļa vadītājs transportlīdzekli ir vadījis alkoholisko dzērienu, narkotisko, psihotropo vai citu apreibinošu vielu iespaidā vai ir pamatotas aizdomas, ka transportlīdzekļa vadītājam ir medicīniskās pretindikācijas transportlīdzekļa vadīšanai (slimība, trauma); 
+
+28) transportlīdzekļa vadītājs — fiziskā persona, kas vada transportlīdzekli, tai skaitā vadīšanas iemaņu pārbaudes laikā, kura notiek normatīvajos aktos noteiktajā kārtībā, vai apmāca vadīt transportlīdzekli personu, kurai nav atbilstošas kategorijas transportlīdzekļa vadīšanas tiesību. Šis jēdziens uz personu, kura ir vadījusi transportlīdzekli, attiecas līdz tam brīdim, kad šo transportlīdzekli sāk vadīt cita persona; 
+
+29) transportlīdzekļa valdītājs — persona, kuras tiesiskā valdījumā ir transportlīdzeklis uz mantojuma tiesību pamata; 
+
+30) tricikls un kvadricikls — attiecīgi trīsriteņu vai četrriteņu mehāniskais transportlīdzeklis, kura konstrukcijā paredzētais maksimālais ātrums pārsniedz 45 kilometrus stundā vai kuram ir iekšdedzes motors ar 50 kubikcentimetru vai lielāku darba tilpumu [kvadricikla pašmasa nepārsniedz 400 kilogramus (550 kilogramus, ja tas paredzēts kravu pārvadāšanai) un jauda — 15 kilovatus]. Šis termins attiecas uz četrriteņu mopēdiem ar pašmasu virs 350 kilogramiem, bet neattiecas uz motocikliem ar blakusvāģi; 
+
+31) trolejbuss — mehāniskais transportlīdzeklis, kas paredzēts braukšanai pa ceļu savienojumā ar ārēju elektroenerģijas padeves avotu; 
+
+32) velosipēds — transportlīdzeklis, kas paredzēts braukšanai, izmantojot uz tā esošā cilvēka muskuļu spēku (izņemot invalīdu ratiņus). Velosipēds var būt aprīkots ar elektromotoru, kura jauda ir ne lielāka par 0,25 kW; 
+
+33) vilcējs — mehāniskais transportlīdzeklis, kas brauc savienojumā ar piekabi (puspiekabi).
+(Ar grozījumiem, kas izdarīti ar 15.02.2001., 08.07.2003., 26.05.2005., 15.12.2005., 15.02.2007. un 19.02.2009. likumu, kas stājas spēkā 18.03.2009.)
+2.pants. Likuma mērķis 
+
+Šā likuma mērķis ir: 
+
+1) noteikt ceļu satiksmes norises un ceļu satiksmes drošības organizatoriskos un tiesiskos pamatus Latvijā, lai aizsargātu cilvēku dzīvību un veselību, vidi, kā arī fiziskajām un juridiskajām personām piederošo mantu; 
+
+2) regulēt mehānisko transportlīdzekļu īpašuma, turējuma un lietošanas tiesību iegūšanu, kā arī transportlīdzekļu īpašnieku, turētāju un lietotāju atbildību.
+3.pants. Ceļu satiksmes tiesiskais pamats 
+
+(1) Ceļu satiksmes tiesiskais pamats ir šis likums un citi likumi, Ceļu satiksmes noteikumi un citi Ministru kabineta normatīvie akti, valsts standarti, kā arī starptautiskie līgumi, kuru dalībvalsts ir Latvija. 
+
+(2) Ceļu satiksmes kārtību Latvijā nosaka Ministru kabinets, apstiprinot Ceļu satiksmes noteikumus.
+(Ar grozījumiem, kas izdarīti ar 08.07.2003. likumu, kas stājas spēkā 01.01.2004.)
+4.pants. Ceļu satiksmes pārvalde un šā likuma izpildes nodrošināšana 
+
+(1) Ceļu satiksmes vispārējo pārvaldi realizē Ministru kabinets un pašvaldības atbilstoši savai kompetencei. 
+
+(2) Ceļu satiksmes pārvaldi atbilstoši savai kompetencei realizē Satiksmes ministrija, Iekšlietu ministrija, Zemkopības ministrija. 
+
+(3) Satiksmes ministrija organizē un koordinē valsts politikas izstrādi un īstenošanu, kā arī veic valsts uzraudzību pār likumu un citu normatīvo aktu ievērošanu ceļu satiksmes drošības jomā. Satiksmes ministrs izdod ar ceļu satiksmes drošību saistītus aktus. 
+
+(4) Valsts policija saskaņā ar likumu "Par policiju" nodrošina kārtību uz ceļiem, regulē transportlīdzekļu un gājēju kustību, veic satiksmes uzraudzību, kontrolē ceļu stāvokli, kā arī satiksmes organizācijas tehnisko līdzekļu un transportlīdzekļu tehnisko stāvokli. 
+
+(5) Ceļu satiksmes drošības direkcija reģistrē transportlīdzekļus, piešķir un anulē transportlīdzekļu vadīšanas tiesības un izsniedz transportlīdzekļu vadītāju apliecības, nodrošina un uztur transportlīdzekļu un to vadītāju valsts reģistru, veic transportlīdzekļu valsts tehnisko apskati un kontrolē ekspluatācijā esošo transportlīdzekļu tehnisko stāvokli, transportlīdzekļu vadītāju apmācības procesu, dod atļauju piedalīties ceļu satiksmē, veic ceļu drošības auditu un vispārējo pārraudzību, pamatojoties uz informāciju, ko Valsts policija sniedz Ministru kabineta noteiktajā apjomā un kārtībā, nodrošina statistiku par ceļu satiksmes negadījumiem un tās analīzi, kā arī veic citas ar ceļu satiksmes drošību saistītas darbības atbilstoši savai kompetencei. Ceļu satiksmes drošības direkcija savas kompetences ietvaros izdod ar ceļu satiksmes drošību saistītus aktus. Ministru kabinets izdod noteikumus par to pakalpojumu cenrāža apstiprināšanu, kurus Ceļu satiksmes drošības direkcija sniedz, pildot tai deleģētos valsts pārvaldes uzdevumus, kā arī nosaka to personu loku, kuras ir atbrīvojamas no samaksas par sniegtajiem pakalpojumiem. 
+
+(6) Valsts tehniskās uzraudzības aģentūra reģistrē traktortehniku un tās piekabes, veic traktortehnikas un tās piekabju valsts tehnisko apskati un kontrolē ekspluatācijā esošās traktortehnikas tehnisko stāvokli, traktortehnikas vadītāju un instruktoru apmācības procesu, dod atļauju piedalīties ceļu satiksmē, piešķir un anulē traktortehnikas vadīšanas tiesības un izsniedz traktortehnikas vadītāju apliecības, kā arī nodrošina un uztur traktortehnikas un tās vadītāju informatīvo sistēmu. Valsts tehniskās uzraudzības aģentūra par sniegtajiem publiskajiem pakalpojumiem iekasē maksu Ministru kabineta noteiktajā apmērā. 
+
+(7) Izglītības un zinātnes ministrija nodrošina Ceļu satiksmes noteikumu un ceļu satiksmes drošības pamatu mācīšanu pirmsskolas un vispārējās izglītības mācību iestādēs pēc programmām, kuras saskaņotas ar Ceļu satiksmes drošības direkciju. 
+
+(8) Latvijas Autoceļu direkcija uzrauga ceļu būvniecību, remontu, rekonstrukciju un uzturēšanu satiksmei drošā stāvoklī atbilstoši normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā, veic ar ceļu satiksmi saistītu objektu būvniecības un rekonstrukcijas projektu saskaņošanu un uzrauga satiksmes organizāciju un tās tehnisko līdzekļu izvietojuma atbilstību Latvijā obligāti piemērojamo standartu un citu normatīvu prasībām. 
+
+(9) Zemkopības ministrija izstrādā normatīvo aktu projektus par ceļu satiksmes drošības jautājumiem attiecībā uz traktortehnikas un tās piekabju izmantošanu ceļu satiksmē, kā arī normatīvajos aktos noteiktajā kārtībā īsteno Valsts tehniskās uzraudzības aģentūras pārraudzību.
+(Ar grozījumiem, kas izdarīti ar 15.02.2001., 08.07.2003., 26.05.2005., 15.12.2005., 15.02.2007. un 19.02.2009. likumu, kas stājas spēkā 18.03.2009.)
+4.1 pants. Transportlīdzekļu un to numurēto agregātu tirdzniecība 
+
+(1) Transportlīdzekļu un to numurēto agregātu (transportlīdzekļa virsbūvju, kabīņu vai rāmju, uz kuriem transportlīdzekļa izgatavotājs norāda transportlīdzekļa identifikācijas numuru) tirdzniecība ir šo preču pārdošana, veicot komercdarbību. 
+
+(2) Ar transportlīdzekļu (izņemot tramvaju, trolejbusu un velosipēdu) un to numurēto agregātu tirdzniecību ir tiesības nodarboties komersantam, kas normatīvajos aktos noteiktajā kārtībā ir ierīkojis un reģistrējis transportlīdzekļu tirdzniecības vietu. 
+
+(3) Transportlīdzekļu un to numurēto agregātu (izņemot traktortehnikas, to piekabju un numurēto agregātu) tirdzniecības vietu reģistrē un tirdzniecības vietas reģistrācijas apliecību komersantam izsniedz Ceļu satiksmes drošības direkcija. Traktortehnikas, to piekabju un numurēto agregātu tirdzniecības vietu reģistrē un tirdzniecības vietas reģistrācijas apliecību izsniedz Valsts tehniskās uzraudzības aģentūra. Transportlīdzekļu tirdzniecības vietu reģistrācijas kārtību nosaka Ministru kabinets. 
+
+(4) Prasības transportlīdzekļu un to numurēto agregātu tirdzniecībai, kā arī tirdzniecības valsts reģistrācijas numura zīmju izmantošanai nosaka Ministru kabinets.
+(15.02.2007. likuma redakcijā, kas stājas spēkā 15.03.2007.)
+II nodaļa 
+Satiksmes drošības pamatnoteikumi uz ceļiem
+5.pants. Prasības attiecībā uz ceļu aprīkošanu 
+
+Jebkuram ceļam jābūt aprīkotam ar nepieciešamajām ceļu inženierbūvēm un satiksmes organizācijas tehniskajiem līdzekļiem atbilstoši obligāto standartu, tehnisko normatīvu un noteikumu prasībām.
+6.pants. Ceļa pārvaldītāja pienākumi 
+
+(1) Ceļa pārvaldītājam ir pienākums: 
+
+1) nodrošināt, lai ceļš pastāvīgi tiktu uzturēts satiksmei drošā stāvoklī atbilstoši normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā; 
+
+2) organizēt satiksmi un nodrošināt ceļa, tā mākslīgo būvju un inženierbūvju, kā arī satiksmes organizācijas tehnisko līdzekļu uzturēšanu lietošanas kārtībā atbilstoši normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā; 
+
+3) nodrošināt, lai nekavējoties tiktu novērsti šķēršļi, kas traucē satiksmi un apdraud tās drošību, bet, ja tas nav iespējams, nodrošināt bīstamo vietu aprīkošanu ar atbilstošiem satiksmes organizācijas tehniskajiem līdzekļiem līdz šo šķēršļu likvidēšanai; 
+
+4) nodrošināt, lai tiktu izanalizēti ceļu satiksmes negadījumi, tādējādi pastāvīgi pilnveidojot satiksmes organizāciju; 
+
+5) kontrolēt ceļa darbu veikšanas kārtību; 
+
+6) nodrošināt ceļu drošības audita veikšanu; 
+
+7) norādītajos termiņos un kārtībā izpildīt Satiksmes ministrijas un Iekšlietu ministrijas amatpersonu priekšrakstus, kas izdoti to kompetences ietvaros; 
+
+8) atlīdzināt personām zaudējumus, kuri tām radušies šo pienākumu neizpildes gadījumā. 
+
+(2) Ministru kabinets nosaka ceļu drošības auditēšanas un ceļu drošības auditoru sertificēšanas kārtību. 
+
+(3) Valsts un pašvaldību autoceļu ikdienas uzturēšanas prasības un to izpildes kontroles kārtību nosaka Ministru kabinets.
+(15.02.2001. likuma redakcijā ar grozījumiem, kas izdarīti ar 08.07.2003., 26.05.2005. un 15.12.2005. likumu, kas stājas spēkā 01.01.2006.)
+7.pants. Ceļu būvniecības, remonta un rekonstrukcijas projektēšana 
+
+(1) Ceļu, to inženierbūvju un dzelzceļa pārbrauktuvju būvniecības, remonta un rekonstrukcijas projektiem jāatbilst spēkā esošajiem likumiem un citiem normatīvajiem aktiem un ceļu satiksmes drošības normatīviem. Projektu atbilstība minētajām prasībām jāapstiprina projektētājam. Projekti jāsaskaņo ar Latvijas Valsts ceļiem. 
+
+(2) Par ekspluatācijā nododamiem ceļu būvniecības, remonta un rekonstrukcijas objektiem saņemams Latvijas Valsts ceļu atzinums par to atbilstību normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā.
+(Ar grozījumiem, kas izdarīti ar 15.02.2001., 08.07.2003. un 26.05.2005. likumu, kas stājas spēkā 29.06.2005.)
+8.pants. Satiksmes ierobežošana vai aizliegums 
+
+(1) Ceļa pārvaldītājs satiksmi uz laiku var ierobežot vai aizliegt, ja radušies nelabvēlīgi ceļa, klimatiskie vai citi apstākļi (paredzētas sporta sacensības, publiski pasākumi u.tml.), kas apdraud satiksmes drošību. Kārtību, kādā ieviešami satiksmes ierobežojumi vai aizliegums, nosaka Ministru kabinets. 
+
+(2) Sevišķi neatliekamos gadījumos, pildot dienesta pienākumus, savas kompetences ietvaros satiksmi var ierobežot vai aizliegt policijas darbinieki un citas amatpersonas, kuras tam pilnvaro likumi un citi normatīvie akti. 
+
+(3) Izņēmuma stāvokļa laikā ceļu satiksmes ierobežojumus var noteikt saskaņā ar likumu "Par izņēmuma stāvokli".
+(Ar grozījumiem, kas izdarīti ar 08.07.2003. likumu, kas stājas spēkā 01.01.2004.)
+

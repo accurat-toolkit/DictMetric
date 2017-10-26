@@ -1,0 +1,260 @@
+﻿REMANTADĪNS
+
+    Drukāt   
+ 
+
+Rimantadini hydrochloridum
+
+
+
+ATC kods: J05AC02
+
+
+
+Forma: Tabletes un pulveris iekšķīgai lietošanai
+
+
+
+Terapeitiski: Pielietojums 1
+ 
+Izvērsta informācija 
+Sastāvs    Iedarbība    Indikācijas    Kontrindikācijas    Blakusparādības    Lietošana    Iepakojums     
+ 
+Sastāvs
+
+
+1. Viens pulveris paciņā satur aktīvo vielu 20 mg rimantadīna hidrohlorīda un palīgvielas - askorbīnskābe, mannitols, aspartāms, aromatizators.
+
+2. Viena tablete satur aktīvo vielu 50 mg rimantadīna hidrohlorīda un palīgvielas - laktoze, kartupeļu ciete, stearīnskābe.
+
+
+  Uz augšu 
+ 
+Iedarbība
+
+Pretvīrusu līdzeklis. 
+
+1. Farmakodinamika
+
+Remantadīns ir amantadīna atvasinājums ar izteiktu pretvīrusu aktivitāti. Tas ir efektīvs pret A gripas vīrusu un citiem A grupas vīrusiem, kā arī iedarbojas antitoksiski B gripas vīrusa izraisītās intoksikācijas gadījumā. Remantadīns nomāc vīrusa replikāciju cikla agrā stadijā, iespējams, kavējot vīrusa apvalka veidošanu. Ģenētiski pētījumi parādīja, ka svarīga nozīme remantadīna pretvīrusu darbībā pret A gripas vīrusu ir specifiskam viriona gēna M2 olbaltumam. Remantadīns in vitro kavē visu trīs no cilvēka izolēto A gripas antigēno apakštipu (H1N1, H2N2 un H3N2) vīrusu replikāciju. Remantadīns neietekmē inaktivētās A gripas vakcīnas imunoģenētiskās īpašības. Korelācija starp A gripas vīrusa jutību pret remantadīnu in vitro un preparāta klīnisko efektivitāti nav noskaidrota. Jutības testu rezultāti (izteikti ar zāļu vielas koncentrāciju, pie kuras vīrusa replikācija šūnu kultūrā tiek nomākta par 50% un vairāk) variē no 4 ng/ml līdz 20 μg/ml, atkarībā no eksperimentā izmantotās šūnu kultūras, barotnes, ievadītā A gripas vīrusu celma un apjoma. Starp izolētiem A gripas epidēmiskiem vīrusa celmiem, kad remantadīns lietots norobežotā vidē, reti parādās remantadīnrezistenti celmi. Rezistentie vīrusi ir transmisīvi un izraisa tipisku gripas saslimšanu. Pētījumā, kurā piedalījās 2017 pacienti 43 valstīs 4 mēnešu laikā, bija reģistrēti tikai 16 (0,8%) remantadīnrezistentu vīrusu gadījumi.
+
+Remantadīns ir efektīvs arī pret arbovīrusiem, kas ir ērču encefalīta ierosinātāji. 
+
+2. Farmakokinētika
+
+Remantadīna farmakokinētika ir pietiekami labi izpētīta. Pēc vienreizējas un daudzkārtējas devas dažādu vecuma grupu pacientien korelācija starp remantadīna koncentrāciju plazmā un pretvīrusu aktivitāti nav noteikta. Pēc perorālas lietošanas remantadīna uzsūkšanās ir laba, preparāta biopieejamība ir augsta. Uzsūkšanās no visām zāļu formām notiek līdzīgi. Pēc vienas remantadīna perorālas 100 mg devas maksimālā koncentrācija plazmā 74 ng/ml (robežās no 45-138 ng/ml) veseliem pieaugušajiem (20-44 g. vecumā) tiek sasniegta 5-7 stundās. Apmēram 40% remantadīna saistās ar plazmas olbaltumvielām, galvenokārt albumīniem. Vienas devas eliminācijas pusperiods šajā izpētes grupā ir vidēji 25 stundas, bet vecuma grupā 71-79 g. - vidēji 32 stundas.
+
+Pēc 100 mg remantadīna lietošanas divas reizes dienā 10 dienas veseliem pieaugušajiem (18-70 g.v.) laukums zem koncentrācijas - laika līknes (AUC) bija aptuveni par 30% lielāks nekā pēc vienas atsevišķas devas. Stabilizācijas periodā preparāta koncentrācija plazmā bija robežās 118-468 ng/ml. Šajā grupā nekonstatēja vecuma nosacītas farmakokinētikas parametru atšķirības. Salīdzinot trīs vecāka gadagājuma pacientu grupas (50-60, 61-70, 71-79 g.v.), izrādījās, ka 71-79 g.v. grupā AUC, maksimālā koncentrācija un eliminācijas pusperiods stabilizācijas periodā bija par 20-30% lielāks nekā pārējām divām izmeklējamo grupām. Veciem un ļoti veciem (68-102 g.v.) mājās kopjamiem slimniekiem stabilizācijas periodā remantadīna koncentrācija plazmā bija 2-4 reizes augstāka nekā veseliem jauniem un pusmūža pieaugušajiem.
+
+Preparāta farmakokinētika bērniem ir līdzīga pieaugušajiem.
+
+10 bērniem (4-8 g.v.), kas saņēma vienu remantadīna devu (6,6, mg/kg), pēc 5-6 stundām koncentrācija plazmā svārstījās no 446-988 ng/nl, bet pēc 24 stundām – no 170-424 ng/ml. Preparāta eliminācijas pusperiods šai grupā bija vidēji 24,8 stundas. Atsevišķos gadījumos zāļu aktīvo vielu plazmā bērniem konstatēja 72 stundas pēc pēdējās devas ieņemšanas.
+
+Remantadīna farmakokinētiskie parametri ir pamatojums preparāta lietošanai vienu reizi dienā bērniem un pieaugušajiem.
+
+Remantadīns intensīvi metabolizējas aknās hidroksilēšanās, konjugācijas un glikuronidācijas ceļā; mazāk par 25% no ieņemtās devas izdalās ar urīnu nepārmainītā veidā. Plazmā konstatēti trīs hidroksilēšanās metabolīti. Tie un vēl papildus konjugētie metabolīti sastāda 74±10% no vienas atsevišķas 200 mg devas un no organisma izdalās ar urīnu 72 stundu laikā.
+
+Hroniskas aknu slimības gadījumā (hroniska aknu ciroze) pēc vienas remantadīna 200 mg perorālas devas farmakokinētika būtiski neatšķiras no kinētikas vesela cilvēka organismā, tāpēc nav nepieciešams mazināt preparāta devu. Slimniekiem ar smagiem aknu funkcijas traucējumiem AUC bija aptuveni trīsreiz lielāks, eliminācijas pusperiods aptuveni divreiz garāks un teorētiskais klīrenss - par 50% mazāks, salīdzinot ar šiem rādītājiem pirms aknu funkcijas pasliktināšanās. 
+
+
+  Uz augšu 
+ 
+Indikācijas
+
+
+Remantadīnu lieto gripas vīrusu izraisītas saslimšanas agrīnai ārstēšanai pieaugušajiem un bērniem.
+
+Profilaksei gripas epidēmijas laikā pieaugušajiem.
+
+Remantadīnu rekomendē lietot vīrusu etioloģijas ērču encefalīta profilaksei pieaugušajiem. 
+
+
+  Uz augšu 
+ 
+Kontrindikācijas
+
+
+Paaugstināta jutība pret adamantāna grupas savienojumiem vai preparātu palīgvielām. Akūtas aknu slimības, akūtas un hroniskas nieru slimības, tireotoksikoze.
+
+Grūtniecības un zīdīšanas periods. Bērniem līdz 1 g.v.
+
+Remantadīna pulvera sastāvā ir saldinātājs aspartāms. Tā lietošana kontrindicēta fenilketonūrijas slimniekiem.
+
+
+  Uz augšu 
+ 
+Blakusparādības
+
+
+Remantadīnu parasti panes labi.
+
+Klīniskā pētījumā, kurā piedalījās 1027 slimnieki, kas saņēma rekomendēto remantadīna dienas devu 200 mg, visbiežākās sūdzības bija par kuņģa un zarnu trakta un nervu sistēmas darbības traucējumiem.
+
+Klīniskā pētījumā biežāk novērojamās blakusparādības (1-3%) dotas tabulā.
+
+ 
+
+  Remantadīns  (n=1027)
+ Placebo (n=986)
+ 
+Nervu sistēma
+     
+Bezmiegs
+ 2,1 %
+ 0,9 %
+ 
+Reibonis
+ 1,9 %
+ 1,1 %
+ 
+Galvassāpes
+ 1,4 %
+ 1,3 %
+ 
+Paaugstināta uzbudināmība
+ 1,3 %
+ 0,6 %
+ 
+Nogurums
+ 1,0 %
+ 0,9 %
+ 
+Kuņģa un zarnu trakts
+     
+Slikta dūša
+ 2,8 %
+ 1,6 %
+ 
+Vemšana
+ 1,7 %
+ 0,6 %
+ 
+Apetītes zudums
+ 1,6 %
+ 0,8 %
+ 
+Sausums mutē
+ 1,5 %
+ 0,6 %
+ 
+ Sāpes vēderā
+ 1,4 %
+ 0,8 %
+ 
+Organisma vispārējais stāvoklis
+     
+Astēnija 
+ 1,4 %
+   
+ 
+
+
+ 
+
+ 
+
+Retāk (0,3-1%) klīniskā pētījumā pēc rekomendētās devas tika novērotas šādas blakusparādības: kuņģa un zarnu trakts - caureja, dispepsija; nervu sistēma - uzmanības traucējumi, ataksija, miegainība, ažitācija, depresija; āda - izsitumi; dzirde un vestibulārais aparāts - troksnis ausīs; elpošanas orgāni - aizsmakums. Citas blakusparādības, kas sastopamas mazāk nekā 0,3% slimnieku: nervu sistēma - gaitas traucējumi, eiforija, hiperkinēze, trīce, halucinācijas, apjukums, krampji; elpošanas orgāni – bronhospazmas, klepus; sirds un asinsvadu sistēma – sirdsklauves, hipertensija, cerebrovaskulāri traucējumi, sirds mazspēja, sirds blokāde, tahikardija, ģībonis; reproduktīvā sistēma - laktācija bez krūts barošanas; maņu orgāni - ožas izmaiņas vai zaudējums. Blakusparādību biežums klīniskos pētījumos, sevišķi kuņģa un zarnu trakta un nervu sistēmas, palielinājās, pārsniedzot ieteiktās devas. Lielākā daļā gadījumu simptomi izzuda pēc preparāta atcelšanas. Bez jau minētajām blakusparādībām atsevišķos gadījumos novēroja acu asarošanu, biežāku urinēšanu, drudzi, aizcietējumu, svīšanu, stomatītu, hiperestēziju, sāpes acīs.
+
+Sešu nedēļu ilgā salīdzinošā klīniski profilaktiskā pētījumā, kurā piedalījās 436 veseli pieaugušie novēroja šādus efektus (salīdzinājumā ar amantadīnu un placebo). 
+
+ 
+
+  Remantadīns 
+
+200 mg/dienā
+
+(n= 145)
+ 
+Placebo
+
+(n=143)
+ Amantadīns
+
+200 mg/dienā
+
+(n=148)
+ 
+Nervu sistēma
+       
+Bezmiegs
+ 3,4 %
+ 0,7 %
+ 7,0 %
+ 
+Paaugstināta uzbudināmība
+ 2,1 %
+ 0,7 %
+ 2,8 %
+ 
+Koncentrēšanās traucējumi
+ 2,1 %
+ 1,4 %
+ 2,1 %
+ 
+Reibonis
+ 0,7 %
+ 0,0 %
+ 2,1 %
+ 
+Kopējais dalībnieku daudzums, kam novēroja blakusefektus
+ 6,9 %
+ 4,1 %
+ 14,7 %
+ 
+Dalībnieku daudzums, kam bija jāatceļ medikaments blakus- efektu dēļ
+ 6,9 %
+ 3,4 %
+ 14,0 %
+ 
+ 
+
+
+ 
+
+ 
+
+Ir dažādi dati par remantadīna blakusparādību izpausmēm veciem cilvēkiem. Klīniskā pētījumā gripas epidēmijas laikā 1997.-1998. g., kurā piedalījās 156 veci slimnieki, blakusefektus novēroja tikai 1,9% slimnieku, galvenokārt - apziņas traucējumus.
+
+Citā kontrolētā pētījumā ar 83 veciem, mājās kopjamiem slimniekiem grupā, kas saņēma placebo, centrālās nervu sistēmas blakus efektus konstatēja 8,3% slimnieku; remantadīna grupā - 10,6%. Šo parādību profils – bezmiegs, paaugstināta uzbudināmība, uzmanības traucējumi, reibonis. 
+
+
+  Uz augšu 
+ 
+Lietošana
+
+
+1. Remantadīns 50 mg tabletes lieto iekšķīgi pēc ēšanas, uzdzerot ūdeni.
+
+Parādoties gripas simptomiem, pēc iespējas ātrāk jāsāk remantadīna lietošana. Izteikts terapeitisks efekts ir, ja preparātus sāk lietot pirmajās 48 stundās.
+
+Gripas ārstēšana: pieaugušajiem pirmajā dienā lieto 100 mg (2 tabletes) 3 reizes dienā, otrajā un trešajā dienā - 100 mg 2 reizes dienā, ceturtajā un piektajā dienā - 100 mg 1 reizi dienā. Pirmajā slimības dienā var lietot arī pa 3 tabletēm 2 reizes dienā vai visas 6 tabletes vienā reizē.
+
+Bērniem: 7-10 g.v. ordinē pa 50 mg 2 reizes dienā, 11-14 g.v. - pa 50 mg 3 reizes dienā, pēc 14 g.v. – pieaugušo devas.
+
+Ārstēšanas kursa ilgums 5 dienas.
+
+Gripas profilakse: pieaugušajiem - 50 mg 1 reizi dienā līdz 30 dienām.
+
+Vīrusu etioloģijas ērču encefalīta profilakse pēc ērces piesūkšanās: pieaugušajiem - 100 mg divas reizes dienā 3 dienas, atsevišķos gadījumos (pēc ārsta norādījuma) - 5 dienas.
+
+Remantadīna profilakse jāuzsāk tūlīt pēc ērces piesūkšanās un ne vēlāk kā 48 stundas pēc tās.
+
+Atsevišķos gadījumos (riska grupām, pārgājiena dalībniekiem mežainā un aizaugušā apvidū, dzīvošana teltīs un tml.) pieaugušie profilaktiski var lietot 1 tableti 2 reizes dienā līdz 15 dienām.
+
+ 
+
+2. Remantadīns 20 mg pulvera paciņas saturu šķīdina pusglāzē silta ūdens un lieto iekšķīgi pēc ēšanas.
+
+Bērniem no 1 līdz 10 g.v. ordinē 5 mg/kg ķermeņa masas dienā dalītās devās 4-5 dienas, bet ne vairāk par 100 mg (5 paciņas) dienā. Bērniem no 11-14 g.v. – 140-160 mg dienā dalītās devās, pēc 14 g.v. – pieaugušo devas.
+
+
+  Uz augšu 
+ 
+Iepakojums
+
+
+1. Remantadīns 50 mg tabletes: 10 tabletes polivinilhlorīda plēves un lakotas alumīnija folijas blisterī; iepakojumā 10, 20, 30, 40 vai 50 tabletes.
+
+2. Remantadīns 20 mg pulveris: lamināta (papīrs/polietilēna plēve/alumīnija folija/polietilēna plēve) paciņa; 15 lamināta paciņas kartona paciņā. 
+
+

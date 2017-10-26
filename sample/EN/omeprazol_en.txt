@@ -1,0 +1,260 @@
+﻿Omeprazole
+Pronunciation: (oh-MEP-ra-zole)
+Class: GI agent, Proton pump inhibitor, Helicobacter Pylori agent 
+Trade Names:
+Prilosec
+- Capsules, delayed-release 10 mg
+- Capsules, delayed-release 20 mg
+- Capsules, delayed-release 40 mg
+
+
+
+Pharmacology
+Suppresses gastric acid secretion by blocking acid (proton) pump within gastric parietal cell.
+
+Pharmacokinetics
+Absorption
+Absorption is rapid. T max is 0.5 to 3.5 h. Bioavailability is 30% to 40% and increases upon repeat administration.
+
+Distribution
+95% is protein bound.
+
+Metabolism
+Extensive in the liver by the CYP enzyme system.
+
+Elimination
+Little is unchanged drug in the urine. Approximately 77% is eliminated as 6 metabolites; the remainder is eliminated in the feces. The half-life is 0.5 to 1 h. Total body Cl is 500 to 600 mL/min.
+
+Duration
+Up to 72 h.
+
+Special Populations
+Renal Function Impairment
+
+There is slight increase in bioavailability in patients with chronic renal function impairment. No dose adjustment necessary.
+
+Hepatic Function Impairment
+
+In patients with chronic hepatic disease, bioavailability is increased, plasma half-life is increased to 3 h, and plasma Cl is decreased. Consider dose adjustment.
+
+Elderly
+
+The elimination rate is decreased. Bioavailability is increased. No dosage adjustment is necessary.
+
+Race
+
+AUC is increased approximately 4-fold in Asian patients. Consider dose adjustment.
+
+Indications and Usage
+Short-term treatment of active duodenal ulcer; in combination with clarithromycin and amoxicillin to eradicate Helicobacter pylori ; in combination with clarithromycin to eradicate H. pylori ; short-term treatment of active benign gastric ulcer; treatment of heartburn and other symptoms associated with gastroesophageal reflux disease (GERD); short-term treatment of erosive esophagitis that has been diagnosed by endoscopy; maintenance of healing of erosive esophagitis; long-term treatment of pathological hypersecretory conditions (eg, Zollinger-Ellison syndrome, multiple endocrine adenomas, systemic mastocytosis).
+
+Nonprescription 
+Treatment of frequent heartburn that occurs 2 or more times a week.
+
+Unlabeled Uses
+As alternate-day therapy in maintaining ulcer or GERD remission rates during long-term treatment after healing during a short course of therapy; treatment of GERD-related laryngitis symptoms in patients who have not responded to antireflux measures alone; treatment of GERD-related laryngitis; treatment of GERD in infants and children; in combination with antibiotics (eg, amoxicillin, clarithromycin) for eradication of H. pylori in children; to improve enzyme absorption in cystic fibrosis patients with intestinal malabsorption.
+
+Contraindications
+Standard considerations.
+
+Dosage and Administration
+Active Duodenal Ulcer
+Adults 
+PO 20 mg/day for 4 to 8 wk.
+
+GERD and Maintenance of Healing of Erosive Esophagitis
+Children 1 yr of age and older 
+PO Weighing 5 to less than 10 kg, the dosage is 5 mg daily.
+
+Weighing 10 kg to less than 20 kg, the dosage is 10 mg daily.
+
+Weighing 20 kg or more, the dosage is 20 mg daily.
+
+GERD Without Esophageal Lesions
+Adults 
+PO 20 mg daily for up to 4 weeks.
+
+GERD with Erosive Esophagitis
+Adults 
+PO 20 mg/day for 4 to 8 wk. For maintenance treatment, give 20 mg/day.
+
+Pathologic Hypersecretory Conditions
+Adults 
+PO For initial dosage, give 60 mg/day. Dosages up to 120 mg 3 times daily have been given. Divide daily doses of more than 80 mg.
+
+H. pylori
+Adults (triple therapy) 
+PO Omeprazole 20 mg plus clarithromycin 500 mg plus amoxicillin 1,000 mg each given 2 times daily for 10 days; continue omeprazole 20 mg/day for an additional 18 days if an ulcer is present at start of therapy.
+
+Adults (dual therapy) 
+PO Omeprazole 40 mg once daily plus clarithromycin 500 mg 3 times daily for 14 days; continue omeprazole 20 mg/day for an additional 14 days if an ulcer is present at start of therapy.
+
+Gastric Ulcer
+Adults 
+PO 40 mg once daily for 4 to 8 wk.
+
+Heartburn (OTC)
+Adults 
+PO 1 tablet (20 mg) daily for 14 days. The 14-day course may be repeated every 4 mo.
+
+General Advice
+For patients who have difficulty swallowing capsules, the contents of a delayed-release capsule can be added to a tablespoon of applesauce in a bowl. The pellets should be mixed with the applesauce and swallowed immediately with a glass of cool water. The applesauce should be soft enough to swallow without chewing. The omeprazole pellets should not be chewed or crushed. Do not store the pellets/applesauce mixture for future use. 
+Administer delayed-release suspension by emptying contents of a 2.5 mg packet into 5 mL of water or by emptying contents of a 10 mg packet into 15 mL of water. Stir and leave for 2 to 3 min to thicken. Stir and drink within 30 min. If any material remains after drinking, add more water, stir and drink immediately. 
+For patients with a nasogastric or gastric tube, add 5 mL of water to a catheter-tipped syringe and then add the contents of a 2.5 mg packet (or 15 mL of water for the 10 mg packet). Only use a catheter-tipped syringe when administering omeprazole through nasogastric or gastric tube. Immediately shake the syringe and allow 2 to 3 min to thicken. Shake the syringe and inject contents through the nasogastric or gastric tube into the stomach within 30 min, using a French size 6 or larger. Refill the syringe with an equal amount of water, shake, and flush any remaining contents from the nasogastric or gastric tube into the stomach. 
+Storage/Stability
+Store packets for delayed-release oral suspension at 59° to 86°F. Store capsules at controlled room temperature (59° to 86°F). Protect capsules from light and moisture.
+
+
+
+Ads by Google
+Say Goodbye to Insomnia
+Natural Herbal Remedy will have you sleeping like a baby again!
+mystic-sleep.com
+
+Ask a Doctor Online Now
+9 Doctors Are Online. Ask a Question, Get an Answer ASAP.
+Health.JustAnswer.com
+
+Parkinson's Treatments
+Learn about the Latest Advances for Parkinson's Treatments - Yours Free
+www.ParkinsonsDisease-Guidebook.com
+
+
+
+Drug Interactions
+Atazanavir, nelfinavir, ritonavir 
+Plasma concentrations may be reduced by omeprazole, decreasing the efficacy. Coadministration with omeprazole is not recommended.
+
+Benzodiazepines (eg, diazepam) 
+Cl of benzodiazepines may be decreased.
+
+Cilostazol, tacrolimus 
+Plasma levels may be increased by omeprazole, increasing the therapeutic effects and adverse reactions.
+
+Clarithromycin 
+Omeprazole and clarithromycin plasma concentrations may be elevated.
+
+Cyclosporine 
+Coadministration of omeprazole has been reported to result in increased, decreased, and unaltered cyclosporine concentrations. Measure cyclosporine concentrations frequently when starting or stopping omeprazole.
+
+Drugs depending on gastric pH for bioavailability (eg, ampicillin, cyanocobalamin, digoxin, erlotinib, itraconazole, ketoconazole, indinavir, iron salts) 
+Absorption of these drugs may be affected.
+
+Ginkgo biloba, St. John's wort 
+Omeprazole plasma concentrations may be reduced, decreasing the therapeutic effect.
+
+Phenytoin 
+Decreased plasma Cl and increased phenytoin half-life.
+
+Saquinavir 
+Plasma concentrations may be elevated by omeprazole, increasing the risk of adverse reactions. Consider saquinavir dose reduction.
+
+Serotonin reuptake inhibitors (eg, escitalopram) 
+Plasma concentrations may be elevated by omeprazole. If an interaction is suspected, the dose of the serotonin reuptake inhibitor may need to be adjusted when starting or stopping omeprazole.
+
+Voriconazole 
+Omeprazole plasma concentrations may be elevated, which may necessitate dosage adjustments in patients with Zollinger-Ellison syndrome.
+
+Warfarin 
+Increased INR and PT, which may lead to abnormal bleeding and increase the risk of death.
+
+Laboratory Test Interactions
+None well documented.
+
+Adverse Reactions
+Cardiovascular
+Angina, bradycardia, chest pain, elevated BP, palpitations, peripheral edema, tachycardia (postmarketing).
+
+CNS
+Headache (7%); dizziness (2%); asthenia (1%); abnormal dreams, aggression, agitation, anxiety, apathy, confusion, depression, fatigue, hallucinations, insomnia, malaise, nervousness, paresthesia, sleep disturbances, somnolence, tremors, vertigo (postmarketing).
+
+Dermatologic
+Rash (2%); alopecia, dry skin, erythema multiforme, hyperhidrosis, photosensitivity, petechiae, pruritus, purpura, skin inflammation, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria (postmarketing).
+
+EENT
+Anterior ischemic optic neuropathy, blurred vision, double vision, dry eye syndrome, ocular irritation, optic atrophy, optic neuritis, pharyngeal pain, taste perversion, tinnitus (postmarketing).
+
+GI
+Abdominal pain (5%); diarrhea, nausea (4%); flatulence, vomiting (3%); acid regurgitation, constipation (2%); abdominal swelling, anorexia, dry mouth, esophageal candidiasis, fecal discoloration, gastric fundic gland polyps, gastroduodenal carcinoids, irritable colon, mucosal atrophy of the tongue, pancreatitis, stomatitis (postmarketing).
+
+Genitourinary
+Elevated serum creatinine, glucosuria, gynecomastia, hematuria, interstitial nephritis, microscopic pyuria, proteinuria, testicular pain, urinary frequency, UTI (postmarketing).
+
+Hepatic
+Cholestatic disease, elevated LFTs (alkaline phosphatase, bilirubin, ALT, AST, gamma-glutamyl-transferase), hepatic encephalopathy, hepatic failure (some fatal), hepatocellular disease, jaundice, liver necrosis, mixed hepatitis (postmarketing).
+
+Hematologic-Lymphatic
+Agranulocytosis, anemia, hemolytic anemia, leukocytosis, leukopenia, neutropenia, pancytopenia, thrombocytopenia (postmarketing).
+
+Hypersensitivity
+Anaphylactic shock, anaphylaxis, bronchospasm, interstitial nephritis, urticaria (postmarketing).
+
+Metabolic-Nutritional
+Hypoglycemia, hyponatremia (postmarketing).
+
+Musculoskeletal
+Back pain (1%); joint pain, leg pain, muscle cramps, muscle weakness, myalgia (postmarketing).
+
+Respiratory
+Upper respiratory tract infection (2%); cough (1%); epistaxis (postmarketing).
+
+Miscellaneous
+Fever (children, 33%); accidental injury (4%); pain (postmarketing).
+
+
+Ads by Google
+Parkinson's Treatments
+Learn about the Latest Advances for Parkinson's Treatments - Yours Free
+www.ParkinsonsDisease-Guidebook.com
+
+AIDS new treatment
+herbal extracts may help increase CD4 and lower virus counts
+NatureProducts.Net
+
+Rehab 120 caps
+Powerful, systemic detoxifier. Eases chemical dependency.
+www.Super-Smart.eu
+
+
+Precautions
+Pregnancy
+Category C .
+
+Lactation
+Excreted in breast milk.
+
+Children
+Safety and efficacy not established in children younger than 1 yr of age.
+
+Elderly
+No dosage adjustment is necessary in elderly patients.
+
+Hypersensitivity
+Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving penicillin therapy. Before starting combination therapy with amoxicillin therapy, assess if patient has an allergy to penicillins, cephalosporins, or other allergens.
+
+Renal Function
+No dosage adjustment is needed.
+
+Hepatic Function
+Consider dosage adjustment in patients with hepatic function impairment, especially for maintenance of healing of erosive esophagitis.
+
+Atrophic gastritis
+Has been reported in gastric corpus biopsies in patients treated with long-term omeprazole.
+
+Concomitant gastric malignancy
+Symptomatic response to therapy with omeprazole does not preclude the presence of gastric malignancy.
+
+Overdosage
+Symptoms
+Blurred vision, confusion, diaphoresis, drowsiness, dry mouth, flushing, headache, nausea, tachycardia, vomiting.
+
+
+Patient Information
+Instruct patient using OTC omeprazole tablets to carefully read package instructions regarding warnings and dosing instructions. Advise patient to swallow tablet whole and not to split, crush, or chew tablet. 
+Instruct patient to take each dose on an empty stomach, at least 1 h before eating. 
+Instruct patient to swallow capsules whole and not to open, crush, or chew the capsule. 
+Advise patient having difficulty swallowing the capsule to open it and gently mix the pellets with 1 Tbsp of cool or cold applesauce and then immediately swallow the mixture without chewing. Remind patient not to crush or chew the pellets and not to prepare the pellet/applesauce mixture ahead of time or store for future use. 
+Remind patient that omeprazole is to be taken every day and not as needed or only when symptoms are present. 
+Advise patient that this drug may take 1 to 4 days for full effect to be seen. 
+Inform patient that antacids may be taken concurrently with omeprazole. 
+Instruct patient to report any of the following to health care provider: bloody or coffee ground–like vomit; black, tarry stools; recurrent heartburn; recurrent indigestion or abdominal pain; increasing need for antacid use; bothersome side effects (eg, headache, constipation, gas).

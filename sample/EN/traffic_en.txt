@@ -1,0 +1,110 @@
+﻿Section 1. 	Terms Used in this Law
+
+      The following terms are used in this Law:
+      1) road owner – the State, local government, natural or legal person who owns the relevant road on the basis of property rights;
+      2) road manager – an owner or other natural or legal person to whom the responsibility (management) of the relevant road has been transferred;
+      3) road – any territory constructed for traffic (motor road, street, boulevard, cross-street and the similar territories in full width, including the carriageway, footpaths, shoulders, central reserve and islands). The road system elements include a road, artificial structures (bridges, viaducts, tunnels, culverts, drainage installations, support walls and other structures), road engineering structures (public transport stopping points, and pavilions, deceleration and acceleration lanes, vehicle parking places, rest areas, bicycle paths and footways, road communication and lighting lines and other engineering structures), technical means of traffic organisation (traffic signs, traffic lights, signal poles, protective barriers, pedestrian barriers, vertical and horizontal road markings and other technical resources);
+      4) road safety audit – an independent and systematic inspection procedure of projects (also construction designs) and the road network, during which potential dangerous points, where conflict situations may arise, as well as present dangerous points and sections are evaluated from the point of view of road safety and an audit report is drawn up regarding the results of it;
+      5) road traffic – relations arising from movement on roads with transport vehicles or without them;
+      6) a road traffic participant– any person, who is on the road or directly participating in road traffic;
+      7) road traffic accident – an accident that has occurred in road traffic which involves at least one vehicle and as a result of which an individual has died, he or she has been caused physical injury, or damage to the property of a legal or natural person or to the environment has been caused, as well as when an accident has occurred in some other place, where driving with a vehicle is possible, and which involves a vehicle;
+      8) Road traffic regulations – the regulatory enactment of the Cabinet, which determines the procedures for road traffic and is binding upon natural and legal persons;
+      9) the dark hours of the day – from nightfall till the end of dawning;
+      10) pedestrian – a person who moves on the road on foot or by way of an invalid carriage. This term does not apply to persons, who perform work on the carriageway, and to traffic controllers; 
+      11) motor vehicle - a self-propelled vehicle, tractor-type machinery, which move on the road under its own power, except for mopeds and rail vehicles, as well as trolley buses;
+      12) moped – a two wheel, three wheel or four wheel vehicle, the engine’s cylinder capacity of which does not exceed 50 cubic centimetres (for engines of the spark ignition type) or the maximum net power of which does not exceed 4 kW (for electric motors or other type internal combustion engines) and the maximum designed speed of which is not more than 45 kilometres per hour;
+      13) motorcycle - a two-wheel motor vehicle with or without a sidecar. This term shall apply also to snowmobiles;
+      14) poor visibility – such conditions (fog, rain, snow and similar conditions), due to which the visibility on the road is less than 300 meters, also during twilight;
+      15) emergency vehicle – a motor vehicle to which the status of emergency vehicle has been assigned in accordance with the specified procedures and which participates in road traffic with a flashing blue or blue and red special warning lamp switched on and a special audible signal switched on;
+      151) auxiliary engine – an engine, which is built into the vehicle or installed on it, however, is not utilised for the propulsion of the vehicle
+      16) passenger – a person who is present in a vehicle or on it (except for the vehicle driver), as well as a person, who gets into a vehicle, gets out of it or steps out of it;
+      17) unladen mass – the mass of a vehicle supplied in accordance with the State standard together with a driver, but without passengers and freight;
+      18) trailer (semi-trailer) – a vehicle that is intended for driving in connection with a mechanical vehicle. This term does not apply to the sidecars of motorcycles;
+      19) laden mass – the maximum permissible mass specified by the manufacturer together with a driver, passengers and freight.  The laden mass for a towing vehicle with a trailer shall be the sum of the laden masses of the towing vehicle and trailer, but for a towing vehicle with a semi-trailer – the sum of the towing vehicle’s unladen mass, passengers’ mass and semi-trailer’s laden mass;
+      20) international transport by road – any carriage by road vehicles, crossing the border of at least one state;
+      21) agricultural or forestry tractors – a tractor, harvester or other special self-propelled machinery with an internal combustion engine, unless it is designed on the base of an automobile;
+      22) tram – a vehicle intended for driving along rails in connection with an external electrical power supply source. This term shall not apply to electric trains;
+      23)  vehicle – a machine, which by its design is intended to be driven on a road with or without the help of an engine;
+      231) crew member of vehicle –a person who drives a transport vehicle or travels on it in order to transport passengers or freight for commercial purposes or for the personal transport of a natural person or legal person, for whom they work.
+      24) vehicle owner– a legal or natural person, who owns a vehicle. Within the meaning of this Law an owner of a vehicle of the State or local government shall be considered the direct or mediated State administrative institution on the name of which a vehicle has been registered;
+      25) vehicle holder – a natural or legal person, who uses a vehicle on a legal basis (property renting, lease, lending contract etc.). A person who uses a vehicle on the basis of service or employment legal relations shall not be considered as a vehicle holder; 
+      26) technical specifications of vehicle records – set of technical data required for the registration of a vehicle;
+      27) driver’s prescheduled medical check-up – the health examination, in order to specify the presence of medical contraindications, if the driver has driven a vehicle under the influence of alcoholic beverages, narcotic, psychotropic or other intoxicating substances or there is a cause for suspicion, that a driver has medicinal contraindications for driving (illness, injury);
+      28) driver of the vehicle – a natural person, who is driving a vehicle, including during the period of driving skills examination, which occurs according to the procedures specified in regulatory enactments, or training a person, who does not have a driving licence of the relevant category, to drive a vehicle. This concept applies to a person, who has driven a vehicle, up to the moment, when another person starts to drive this vehicle;
+      29) possessor of a vehicle – a person under the legal possession of which is a vehicle on the basis of right of inheritance;
+      30) tricycle and quadricycle – a three-wheel or four-wheel motor vehicle respectively, the designed maximum speed of which is not more than 45 kilometres per hour or which has an internal combustion engine with a cylinder capacity of 50 cubic centimetres or more [unladen mass of the quadricycle does not exceed 400 kilograms (550 kilograms, if it is intended for the transport of freight) and power does not exceed 15 kW]. This term shall apply to four-wheel mopeds with an unladen mass above 350 kilograms, but shall not apply to a motorcycle with a sidecar;
+      31) trolleybus – a mechanical vehicle intended for driving on the road in connection with an outer electrical power supply source;
+      32) bicycle – a vehicle that is intended for driving using the muscle force of a human sitting on it (except for wheelchairs). A bicycle may be equipped with an electric motor, the power of which does not exceed 0.25 kW;
+      33) towing vehicle – a mechanical vehicle, which is driven in connection with a trailer (semi-trailer).
+[15 February 2001; 8 July 2003; 26 May 2005; 15 December 2005; 15 February 2007]
+
+Section 2. 	Purpose of this Law
+
+      The purpose of this Law is:
+      1) to prescribe the organisational and legal basis for road traffic procedures and road traffic safety in Latvia, in order to protect human life and health, the environment, as well as property owned by natural and legal persons; and
+      2) to regulate the acquisition of property rights, the rights to hold and to use a vehicle and exploitation rights of motor vehicles, as well as the liability of owners, holders and users.
+
+Section 3. 	Legal Ground of Road Traffic
+
+(1) The legal ground of road traffic shall be this Law and other laws, Road Traffic Regulations and other regulatory enactments of the Cabinet, State standards, as well as international agreements, to which Latvia is a member state.
+(2) The procedures for road traffic shall be determined by the Cabinet, approving the Road Traffic Regulations.
+[8 July 2003]
+
+Section 4. 	Road Traffic Management and Provision of Fulfilment of this Law
+
+(1) General management of road traffic shall be effected by the Cabinet and local government in accordance with the competence thereof.
+(2) Road traffic management shall be effected by the Ministry of Transport, the Ministry of Interior, and the Ministry of Agriculture in accordance with the competence thereof.
+(3) The Ministry of Transport shall organise and co-ordinate the development and implementation of the State policy, as well as shall perform the State supervision upon observance of the laws and other regulatory enactments in the field of road traffic safety. The Minister for Transport shall issue deeds connected with road traffic safety.
+(4) The State Police shall ensure the procedures on the roads in accordance with the Law on Police, regulate the movement of vehicles and pedestrians, perform supervision of traffic, control the state of the roads, as well as the technical condition of the technical means for traffic organisation and vehicles.
+(5) The Road Traffic Safety Directorate shall register vehicles, grant and annul licences for driving a means of transport and issue driving licences, ensure and maintain the State register of vehicles and their drivers, carry out the State technical inspection of vehicles and control the technical condition of vehicles in operation, the training process of drivers, give the authorisation to participate in road traffic, perform a road safety audit and general supervision, on the basis of the information, which is provided by the State Police in accordance with the procedures and in the amount specified by the Cabinet, ensure statistics regarding road accidents and analysis thereof, as well as perform other operations connected with road traffic safety in accordance with the competence thereof. The Road Traffic Directorate within the competence thereof shall issue a deed connected with road traffic safety. The Cabinet shall issue regulations regarding the approval of such price lists for services, which the Road Traffic Safety Directorate provides in fulfilling its delegated State administration tasks, as well as determine the range of persons who shall be released from the payment of the services provided.
+(6) The State Technical Supervision Agency shall register the tractor-type machinery and trailers thereof, perform the technical inspection of the tractor-type machinery and trailers thereof, and control operationally the technical condition of existing tractor-type machinery, the process of training process of the tractor-type machinery drivers and instructors, and give permission to participate in road traffic, and grant and annul driving licences for the tractor-type machinery and issue drivers’ licences for the tractor-type machinery, as well as shall ensure and maintain an information system for the tractor-type machinery and drivers thereof.
+The State Technical Supervision Agency shall, for the public services provided, collect a fee in the amount specified by the Cabinet. 
+(7) The Ministry of Education and Science shall ensure the teaching of the Road traffic regulations and the basics of road traffic safety in pre-school and general school education institutions by programmes co-ordinated with the Road Traffic Safety Directorate.
+(8) The Latvian State Roads shall supervise road construction, repair, reconstruction and maintain them in a safe condition in accordance with regulatory enactments and standards in the field of road traffic safety, perform the co-ordination of construction and reconstruction projects of objects connected with road traffic and monitor the traffic organisation and the compliance of the location of the technical means thereof with requirements of the mandatory applicable standards in Latvia and other regulatory enactments.
+(9) [8 November 2003]
+[15 February 2001; 8 July 2003; 26 May 2005; 15 December 2005; 15 February 2007]
+
+Section 4.1 	Trade in Vehicles and Units Bearing Identification Numbers thereof
+
+(1) Trade in vehicles and units bearing identification numbers thereof (vehicle bodywork, cabins or frames upon which the vehicle manufacturer indicates a vehicle identification number) is the selling of such goods in the performance of commercial activities. 
+(2) A merchant who according to the procedures specified in regulatory enactments has installed and registered a vehicle trade location, has the right to engage in the trade of vehicles (except for trams, trolley-busses and bicycles) and units bearing identification numbers thereof.
+(3) The trade location in vehicles and units bearing identification numbers thereof (except for tractor-type machinery, trailers  and units bearing identification numbers thereof) shall be registered and the trade location registration certificate shall be issued to the merchant by the Road Traffic Safety Directorate. The trade location in tractor-type machinery, trailers  and units bearing identification numbers thereof shall be registered and the trade location registration certificate shall be issued by the State Technical Supervision Agency. The procedures for the registration of vehicle trade locations shall be determined by the Cabinet.
+(4) The requirements for the trade in vehicles and numbered units thereof, as well as for the use of the State registration number plate for trade shall be determined by the Cabinet.
+[15 December 2005; 15 February 2007]
+
+
+Chapter II
+Basic Rules of Transport Safety on Roads
+
+Section 5. 	Requirements in Respect of Road Equipping
+
+      Any road shall be equipped with the necessary road engineering structures and technical means of traffic organisation in accordance with the requirements of mandatory standards, technical norms and regulations.
+
+Section 6. 	Duties of the Road Manager
+
+(1) The road manager has a duty:
+      1) to ensure, that the road is continuously maintained in a state safe for traffic in accordance with the regulatory enactments and standards in the field of road traffic safety;
+      2) to organise the traffic and ensure the maintaining of the road, artificial structures and engineering structures thereof, as well as the technical means of traffic organisation in working condition in accordance with the regulatory enactments and standards in the field of road traffic safety;
+      3) to ensure, that obstacles, which disturb the traffic and endanger safety thereof, shall be eliminated, but, in case it is not possible, to ensure the equipping of the dangerous places with the appropriate technical means of traffic organisation until the elimination of such obstacles;
+      4) to ensure that road  accidents are analysed thus constantly improving the traffic organisation;
+      5) to control the procedures for performance of road works;
+      6) to ensure performance of the road safety audit;
+      7) to fulfil the prescripts  of the officials of the Ministry of Transport and the Ministry of Interior, which have been issued within the competence thereof, within the periods of time and in accordance with the procedures specified; and
+      8) to pay damages to persons, which have arisen to them in the case of non-fulfilment of these duties.
+(2) The Cabinet shall determine the procedures for road safety auditing and the certification procedures for road safety auditors.
+(3) The daily requirements for maintenance of the State and local government motor roads and the procedures for the control of the fulfilment thereof shall be determined by the Cabinet.
+[8 July 2003; 26 May 2005; 15 December 2005]
+
+Section 7. 	Road Construction, Repair and Reconstruction Design
+
+(1) Projects for the construction, repair and reconstruction of engineering structures and railway level crossings shall comply with the Laws and other regulatory enactments in effect and road traffic safety regulations. The compliance of the projects with the referred to requirements shall be approved by a designer. Projects shall be co-ordinated with the Latvian State Roads.
+(2) An opinion shall be received from  the Latvian State Roads regarding the compliance of the road construction, repair and reconstruction objects to be put into service with the regulatory enactments and standards in the field of road traffic safety.
+[15 February 2001; 8 July 2003; 26 May 2005]
+
+Section 8. 	Restriction or Prohibition of Traffic
+
+(1) The road manager may temporarily restrict or prohibit traffic, if unfavourable road, climatic or other conditions have arisen (sports competitions, public events etc. are intended), which endanger traffic safety. The procedures for the restriction or prohibition of traffic shall be determined by the Cabinet.
+(2) The police officials and other officials, who are authorised for that by laws and other regulatory enactments, may restrict or prohibit traffic within the competence thereof in special emergency cases while performing service duties.
+(3) During the state of exception the road traffic restrictions may be specified in accordance with the Law on State of Exception.
+[8 July 2003]
+

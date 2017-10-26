@@ -1,0 +1,148 @@
+﻿﻿﻿NAME OF THE MEDICINAL PRODUCT
+Xelevia 25 mg film-coated tablets
+2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+Each tablet contains sitagliptin phosphate monohydrate, equivalent to 25 mg sitagliptin.
+For a full list of excipients, see section 6.1.
+3. PHARMACEUTICAL FORM
+Film-coated tablet (tablet)
+Round, pink film-coated tablet with “221” on one side.
+4. CLINICAL PARTICULARS
+4.1 Therapeutic indications
+For patients with type 2 diabetes mellitus, Xelevia is indicated to improve glycaemic control: as monotherapy
+• in patients inadequately controlled by diet and exercise alone and for whom metformin is inappropriate due to contraindications or intolerance. as dual oral therapy in combination with
+• metformin when diet and exercise plus metformin alone do not provide adequate glycaemic control.
+• a sulphonylurea when diet and exercise plus maximal tolerated dose of a sulphonylurea alone do not provide adequate glycaemic control and when metformin is inappropriate due to contraindications or intolerance.
+• a PPARγ agonist (i.e. a thiazolidinedione) when use of a PPARγ agonist is appropriate and when diet and exercise plus the PPARγ agonist alone do not provide adequate glycaemic control. as triple oral therapy in combination with
+• a sulphonylurea and metformin when diet and exercise plus dual therapy with these agents do not provide adequate glycaemic control.
+• a PPARγ agonist and metformin when use of a PPARγ agonist is appropriate and when diet and exercise plus dual therapy with these agents do not provide adequate glycaemic control.
+Xelevia is also indicated as add-on to insulin (with or without metformin) when diet and exercise plus stable dosage of insulin do not provide adequate glycaemic control.
+3
+4.2 Posology and method of administration
+The dose of Xelevia is 100 mg once daily. When Xelevia is used in combination with metformin and/or a PPARγ agonist, the dosage of metformin and/or PPARγ agonist should be maintained, and
+Xelevia administered concomitantly.
+When Xelevia is used in combination with a sulphonylurea or with insulin, a lower dose of the sulphonylurea or insulin may be considered to reduce the risk of hypoglycaemia. (See section 4.4.)
+If a dose of Xelevia is missed, it should be taken as soon as the patient remembers. A double dose should not be taken on the same day.
+Xelevia can be taken with or without food.
+Patients with renal insufficiency
+For patients with mild renal insufficiency (creatinine clearance [CrCl] ≥ 50 ml/min), no dosage adjustment for Xelevia is required.
+Clinical study experience with Xelevia in patients with moderate or severe renal insufficiency is limited. Therefore, use of Xelevia is not recommended in this patient population (see section 5.2).
+Patients with hepatic insufficiency
+No dosage adjustment is necessary for patients with mild to moderate hepatic insufficiency. Xelevia has not been studied in patients with severe hepatic insufficiency.
+Elderly
+No dosage adjustment is necessary based on age. Limited safety data is available in patients ≥ 75 years of age and care should be exercised.
+Paediatric population
+Xelevia is not recommended for use in children below 18 years of age due to a lack of data on its safety and efficacy.
+4.3 Contraindications
+Hypersensitivity to the active substance or to any of the excipients (see section 4.4 and 4.8).
+4.4 Special warnings and precautions for use
+General
+Xelevia should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis.
+Hypoglycaemia when used in combination with other anti-hyperglycaemic agents
+In clinical trials of Xelevia as monotherapy and as part of combination therapy with agents not known to cause hypoglycaemia (i.e. metformin and/or a PPARγ agonist), rates of hypoglycaemia reported with sitagliptin were similar to rates in patients taking placebo. When sitagliptin was added to a sulphonylurea or to insulin, the incidence of hypoglycaemia was increased over that of placebo (see section 4.8). Therefore, to reduce the risk of hypoglycaemia, a lower dose of sulphonylurea or insulin may be considered (see section 4.2).
+Renal insufficiency
+As the experience is limited, patients with moderate to severe renal insufficiency should not be treated with Xelevia (see section 5.2).
+4
+Hypersensitivity Reactions
+Postmarketing reports of serious hypersensitivity reactions in patients treated with Xelevia have been reported. These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including
+Stevens-Johnson syndrome. Onset of these reactions occurred within the first 3 months after initiation of treatment with Xelevia, with some reports occurring after the first dose. If a hypersensitivity reaction is suspected, discontinue Xelevia, assess for other potential causes for the event, and institute alternative treatment for diabetes (see section 4.8).
+4.5 Interaction with other medicinal products and other forms of interaction
+Effects of other medicinal products on sitagliptin
+Clinical data described below suggest that the risk for clinically meaningful interactions by coadministered medicinal products is low.
+Metformin: Co-administration of multiple twice-daily doses of 1000 mg metformin with 50 mg sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
+Ciclosporin: A study was conducted to assess the effect of ciclosporin, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin. Coadministration of a single 100 mg oral dose of sitagliptin and a single 600 mg oral dose of ciclosporin increased the AUC and Cmax of sitagliptin by approximately 29 % and 68 %, respectively. These changes in sitagliptin pharmacokinetics were not considered to be clinically meaningful. The renal clearance of sitagliptin was not meaningfully altered.
+Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.
+In vitro studies indicated that the primary enzyme responsible for the limited metabolism of sitagliptin is CYP3A4, with contribution from CYP2C8. In patients with normal renal function, metabolism, including via CYP3A4, plays only a small role in the clearance of sitagliptin. Metabolism may play a more significant role in the elimination of sitagliptin in the setting of severe renal insufficiency or
+ESRD. For this reason, it is possible that potent CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir, clarithromycin) could alter the phamacokinetics of sitagliptin in patients with severe renal insufficiency or ESRD. The effects of potent CYP3A4 inhibitors in the setting of renal insufficiency has not been assessed in a clinical study.
+In vitro transport studies showed that sitagliptin is a substrate for p-glycoprotein and OAT3. OAT3 mediated transport of sitagliptin was inhibited in vitro by probenecid, although the risk of clinically meaningful interactions is considered to be low. Concomitant administration of OAT3 inhibitors has not been evaluated in vivo.
+Effects of sitagliptin on other medicinal products
+In vitro data suggest that sitagliptin does not inhibit nor induce CYP450 isoenzymes. In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, warfarin, or oral contraceptives, providing in vivo evidence of a low propensity for causing interactions with substrates of CYP3A4, CYP2C8, CYP2C9, and organic cationic transporter (OCT).
+Sitagliptin had a small effect on plasma digoxin concentrations, and may be a mild inhibitor of pglycoprotein in vivo.
+Digoxin: Sitagliptin had a small effect on plasma digoxin concentrations. Following administration of
+0.25 mg digoxin concomitantly with 100 mg of Xelevia daily for 10 days, the plasma AUC of digoxin was increased on average by 11 %, and the plasma Cmax on average by 18 %. No dosage adjustment of digoxin is recommended. However, patients at risk of digoxin toxicity should be monitored for this when sitagliptin and digoxin are administered concomitantly.
+5
+4.6 Pregnancy and lactation
+Pregnancy
+There are no adequate data from the use of Xelevia in pregnant women. Studies in animals have shown reproductive toxicity at high doses (see section 5.3). The potential risk for humans is unknown.
+Due to lack of human data, Xelevia should not be used during pregnancy.
+Lactation
+It is unknown whether sitagliptin is excreted in human breast milk. Animal studies have shown excretion of sitagliptin in breast milk. Xelevia should not be used during breast-feeding.
+4.7 Effects on ability to drive and use machines
+No studies on the effects on the ability to drive and use machines have been performed. However, when driving or operating machines, it should be taken into account that dizziness and somnolence have been reported.
+4.8 Undesirable effects
+In 11 large clinical trials of up to 2 years in duration, over 3200 patients have received treatment with
+Xelevia 100 mg per day alone or in combination with metformin, a sulphonylurea (with or without metformin), insulin (with or without metformin), or a PPARγ agent (with or without metformin). In a pooled analysis of 9 of these trials, the rate of discontinuation due to adverse experiences considered drug-related was 0.8 % with 100 mg per day and 1.5 % with other treatments. No adverse reactions considered as drug-related were reported in patients treated with sitagliptin occurring in excess (> 0.2 % and difference > 1 patient) of that in patients treated with control. In an additional combination study with a PPARγ agent (rosiglitazone) and metformin, no patients were discontinued due to adverse experiences considered as drug-related.
+Adverse reactions considered as drug-related reported in patients treated with sitagliptin occurring in excess (> 0.2 % and difference > 1 patient) of that in patients treated with placebo are listed below (Table 1) by system organ class and frequency. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1000, < 1/100); rare (≥ 1/10000, < 1/1000); and very rare (< 1/10000).
+Table 1. The frequency of adverse reactions identified from placebo-controlled clinical studies
+Adverse
+Reaction
+Frequency of adverse reaction by treatment regimen
+Sitagliptin with
+Metformi n1
+Sitagliptin with a
+Sulphonylu rea 2
+Sitagliptin with a
+Sulphonylu rea and
+Metformin3
+Sitagliptin with a PPARγ
+Agent (pioglitazone)
+4
+Sitagliptin with a
+PPARγ Agent (rosiglitazone) and
+Metformin5
+Sitagliptin with Insulin (+/-)
+Metformin)
+6
+Time-point 24-week 24-week 24-week 24-week 18-week 24-week
+Investigations blood glucose decreased
+Uncommo n
+Nervous system disorders headache Common Common somnolence Uncommo n
+6
+Adverse
+Reaction
+Frequency of adverse reaction by treatment regimen
+Sitagliptin with
+Metformi n1
+Sitagliptin with a
+Sulphonylu rea 2
+Sitagliptin with a
+Sulphonylu rea and
+Metformin3
+Sitagliptin with a PPARγ
+Agent (pioglitazone)
+4
+Sitagliptin with a
+PPARγ Agent (rosiglitazone) and
+Metformin5
+Sitagliptin with Insulin (+/-)
+Metformin)
+6
+Time-point 24-week 24-week 24-week 24-week 18-week 24-week
+Gastrointestinal disorders diarrhoea Uncommo n Common dry mouth Uncommon nausea Common flatulence Common constipation Common Uncommon upper abdominal pain
+Uncommo n vomiting Common
+Metabolism and nutrition disorders hypoglycae mia* Common Very common Common Common Common
+Infections and infestations influenza Common
+General disorders peripheral oedema Common Common†
+* In clinical trials of Xelevia as monotherapy and sitagliptin as part of combination therapy with metformin and/or a PPARγ agent, rates of hypoglycaemia reported with sitagliptin were similar to rates in patients taking placebo.
+† Observed in the 54-week analysis.
+1 In this placebo-controlled 24-week study of sitagliptin 100 mg once daily in combination with metformin, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin/metformin compared to treatment with placebo/metformin was 9.3 % and 10.1 %, respectively.
+In an additional 1-year study of sitagliptin 100 mg once daily in combination with metformin, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin/metformin compared to sulphonylurea/metformin was 14.5 % and 30.3 %, respectively.
+In pooled studies of up to 1 year in duration comparing sitagliptin/metformin to a sulphonylurea agent/metformin, adverse reactions considered as drug-related reported in patients treated with sitagliptin 100 mg occurring in excess (> 0.2 % and difference > 1 patient) of that in patients receiving the sulphonylurea agent are as follows: anorexia (Metabolism and nutritional disorders; frequency uncommon) and weight decreased (Investigations; frequency uncommon).
+2 In this 24-week study of sitagliptin 100 mg once daily in combination with glimepiride, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin/glimepiride compared to treatment with placebo/glimepiride was 11.3 % and 6.6 %, respectively.
+7
+3 In this 24-week study of sitagliptin 100 mg once daily in combination with glimepiride and metformin, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin in combination with glimepiride/metformin compared to treatment with placebo in combination with glimepiride/metformin was 18.1 % and 7.1 %, respectively.
+4 In this 24-week study of the combination of sitagliptin 100 mg once daily and pioglitazone, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin/pioglitazone compared to patients treated with placebo/pioglitazone was 9.1 % and 9.0 %, respectively.
+5 In this study of sitagliptin 100 mg once daily in combination with rosiglitazone and metformin, which continued through 54 weeks, the incidence of adverse reactions considered as drug-related in patients treated with the sitagliptin combination compared to treatment with the placebo combination was 15.3 % and 10.9 %, respectively. Other drug-related adverse reactions reported in the 54-week analysis (frequency common) in patients treated with the sitagliptin combination occurring in excess (> 0.2 % and difference > 1 patient) of that in patients treated with the placebo combination were: headache, cough, vomiting, hypoglycaemia, fungal skin infection, and upper respiratory tract infection.
+6 In this 24-week study of sitagliptin 100 mg once daily as add-on to insulin therapy (with or without metformin), the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin/insulin (with or without metformin) compared to treatment with placebo/insulin (with or without metformin) was 15.5 % and 8.5 %, respectively. In this study 0.9 % of patients treated with sitagliptin/insulin and 0.0 % of patients treated with placebo/insulin were discontinued due to adverse experiences considered as drug-related.
+In addition, in monotherapy studies of up to 24 weeks in duration of sitagliptin 100 mg once daily alone compared to placebo, adverse reactions considered as drug-related reported in patients treated with sitagliptin in excess (> 0.2 % and difference > 1 patient) of that in patients receiving placebo are headache, hypoglycaemia, constipation, and dizziness.
+In addition to the drug-related adverse experiences described above, adverse experiences reported regardless of causal relationship to medication and occurring in at least 5 % and more commonly in patients treated with Xelevia included upper respiratory tract infection and nasopharyngitis. Additional adverse experiences reported regardless of causal relationship to medication that occurred more frequently in patients treated with Xelevia (not reaching the 5 % level, but occurring with an incidence of > 0.5 % higher with Xelevia than that in the control group) included osteoarthritis and pain in extremity.
+In an additional 24-week study of sitagliptin 100 mg once daily compared to metformin, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin compared to metformin was 5.9 % and 16.7 %, respectively, primarily due to a higher incidence of gastrointestinal adverse reactions in the metformin group. In this study 0.6 % of patients treated with sitagliptin and
+2.3 % of patients treated with metformin were discontinued due to adverse experiences considered as drug-related.
+In a 24-week study of initial combination therapy with sitagliptin and metformin administered twice daily (sitagliptin/metformin 50 mg/500 mg or 50 mg/1000 mg), the overall incidence of adverse reactions considered as drug-related in patients treated with the combination of sitagliptin and metformin compared to patients treated with placebo was 14.0 % and 9.7 %, respectively. The overall incidence of adverse reactions considered as drug-related in patients treated with the combination of sitagliptin and metformin was comparable to metformin alone (14.0 % each) and greater than sitagliptin alone (6.7 %), with the differences relative to sitagliptin alone primarily due to gastrointestinal adverse reactions.
+Across clinical studies, a small increase in white blood cell count (approximately 200 cells/microl difference in WBC vs. placebo; mean baseline WBC approximately 6600 cells/microl) was observed
+8 due to an increase in neutrophils. This observation was seen in most but not all studies. This change in laboratory parameters is not considered to be clinically relevant.
+No clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed with Xelevia treatment.
+Post-marketing Experience:
+During post-marketing experience the following additional side effects have been reported (frequency not known): hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome (see section 4.4); pancreatitis.
+4.9 Overdose
+During controlled clinical trials in healthy subjects, single doses of up to 800 mg sitagliptin were generally well tolerated. Minimal increases in QTc, not considered to be clinically relevant, were observed in one study at a dose of 800 mg sitagliptin. There is no experience with doses above 800 mg in humans. In Phase I multiple-dose studies, there were no dose-related clinical adverse reactions observed with sitagliptin with doses of up to 600 mg per day for periods of up to 10 days and 400 mg per day for periods of up to 28 days.
+In the event of an overdose, it is reasonable to employ the usual supportive measures, e.g., remove unabsorbed material from the gastrointestinal tract, employ clinical monitoring (including obtaining an electrocardiogram), and institute supportive therapy if required.

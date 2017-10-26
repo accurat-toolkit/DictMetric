@@ -1,0 +1,14 @@
+/home/fzsu/DictMetric/el-ro/RO/AIDS-drug-cocktails_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/Albanian_bloggers_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/alonso_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/antarctica_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/barcelona-manchester_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/champions-league_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/changes-formula1_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/chelsea-manchester_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/china-olympic-games_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/fasigyn_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/Feldene_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/ferrari_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/US_Report_Albania_tops_ro.txt
+/home/fzsu/DictMetric/el-ro/RO/ADHD_ro.txt

@@ -1,0 +1,265 @@
+
+
+Blu-ray Disc (also known as BD or Blu-Ray) is an optical disc storage medium designed to supersede the standard DVD format.
+
+Its main uses are for storing high-definition video, PlayStation 3 video games, and other data, with up to 25 GB per single layered, and 50 GB per dual layered disc.  Although these numbers represent the standard storage for Blu-Ray drives, the specification is open-ended, with the upper theoretical storage limit left unclear.  200 GB discs are available, and 100 GB discs are readable without extra equipment or modified firmware.  The disc has the same physical dimensions as standard DVDs and CDs.
+
+The name Blu-ray Disc derives from the blue-violet laser used to read the disc. While a standard DVD uses a 650 nanometer red laser, Blu-ray uses a shorter wavelength, a 405 nm blue-violet laser, and allows for almost ten times more data storage than a DVD.
+
+During the format war over high-definition optical discs, Blu-ray competed with the HD DVD format. Toshiba, the main company supporting HD DVD, ceded in February 2008, and the format war ended; in July 2009, Toshiba announced plans to put out its own Blu-ray Disc device by the end of 2009.
+
+Blu-ray Disc was developed by the Blu-ray Disc Association, a group representing makers of consumer electronics, computer hardware, and motion pictures. As of June 2009, more than 1,500 Blu-ray disc titles are available in Australia, with 2,500 in Japan, 1,500 in the United Kingdom, and 2,500 in the United States and Canada.
+
+History
+
+Parameter not given Error... Template       needs its first parameter as beg[in], mid[dle], or end. 
+A blank rewritable Blu-ray Disc (BD-RE).
+ Parameter not given Error... Template       needs its first parameter as beg[in], mid[dle], or end.
+
+Commercial HDTV sets began to appear in the consumer market around 1998, but there was no commonly accepted, inexpensive way to record or play HD content. In fact, there was no medium with the storage required to accommodate HD codecs, except for JVC's Digital VHS and Sony's HDCAM. Nevertheless, it was well known that using lasers with shorter wavelengths would enable optical storage with higher density. Shuji Nakamura invented the practical blue laser diode; it was a sensation among the computer storage-medium community, although a lengthy patent lawsuit delayed commercial introduction.
+
+Origins
+Sony started two projects applying the new diodes: UDO (Ultra Density Optical), and DVR Blue (together with Pioneer), a format of rewritable discs that would eventually become Blu-ray Disc (more specifically, BD-RE). The core technologies of the formats are essentially similar.
+
+The first DVR Blue prototypes were unveiled at the CEATEC exhibition in October 2000. On February 19, 2002, the project was officially announced as Blu-ray, and Blu-ray Disc Founders was founded by the nine initial members.
+
+The first consumer device was in stores on April 10, 2003. This device was the Sony BDZ-S77, a BD-RE recorder that was made available only in Japan. The recommended price was US$3800; however, there was no standard for prerecorded video, and no movies were released for this player. The Blu-ray Disc standard was still years away, as a newer, more secure Digital Rights Management (DRM) system was needed before Hollywood studios would accept it—not wanting to repeat the failure of the Content Scramble System used on standard DVDs. On October 4, 2004, the Blu-ray Disc Founders was officially changed to the Blu-ray Disc Association (BDA), and 20th Century Fox joined the BDA's Board of Directors.
+
+Blu-ray Disc format finalized
+The Blu-ray Disc physical specifications were completed in 2004. In January 2005, Sony announced that they had developed a hard coating polymer for Blu-ray Discs. Cartridges, originally used for scratch protection, were no longer necessary and were scrapped.
+The BD-ROM specifications were finalized in early 2006. AACS LA, a consortium founded in 2004, had been developing the DRM platform that could be used to securely distribute movies to consumers. However, the final AACS standard was delayed, and then delayed again when an important member of the Blu-ray Disc group voiced concerns. At the request of the initial hardware manufacturers, including Toshiba, Pioneer, and Samsung, an interim standard was published that did not include some features, such as managed copy.
+
+Launch and sales developments
+The first BD-ROM players were shipped in mid-June 2006, though HD DVD players beat them to market by a few months.
+
+The first Blu-ray Disc titles were released on June 20, 2006. The first ever movie to be released in Blu-ray is the 2003 film Charlie's Angels: Full Throttle. The earliest releases used MPEG-2 video compression, the same method used on standard DVDs.
+The first releases using the newer VC-1 and AVC codecs were introduced in September 2006. The first movies using (50 GB) dual-layer discs were introduced in October 2006. The first audio-only release was made in March 2008.
+
+The first mass-market Blu-ray Disc rewritable drive for the PC was the BWU-100A, released by Sony on July 18, 2006. It recorded both single- and dual-layer BD-R as well as BD-RE discs and had a suggested retail price of US $699.
+
+Competition from HD DVD
+ Main article: High definition optical disc format war
+
+The DVD Forum, chaired by Toshiba, was deeply split over whether to develop the more expensive blue laser technology or not. In March 2002, the forum voted to approve a proposal endorsed by Warner Bros. and other motion picture studios that involved compressing HD content onto dual-layer standard DVD-9 discs. In spite of this decision, however, the DVD Forum's Steering Committee announced in April that it was pursuing its own blue-laser high-definition solution. In August, Toshiba and NEC announced their competing standard, Advanced Optical Disc. It was finally adopted by the DVD Forum and renamed HD DVD the next year, after being voted down twice by DVD Forum members who were also Blu-ray Disc Association members—prompting the U.S. Department of Justice to make preliminary investigations into the situation.
+
+HD DVD had a head start in the high definition video market, as Blu-ray Disc sales were slow to gain market share. The first Blu-ray Disc player was perceived as expensive and "buggy", and there were few titles available. This changed when the PlayStation 3 was launched, since every PS3 unit also functioned as a Blu-ray Disc player. At CES 2007, Warner proposed Total Hi Def—a hybrid disc containing Blu-ray on one side and HD DVD on the other—but it was never released. By January 2007, Blu-ray discs had outsold HD DVDs, and during the first three quarters of 2007, BD outsold HD DVDs by about two to one. In a June 28, 2007 press release, Twentieth Century Fox cited Blu-ray Disc's adoption of the BD+ anticopying system as a key factor in their decision to support the Blu-ray Disc format. In February 2008, Toshiba withdrew its support for the HD DVD format, leaving Blu-ray as the victor.
+
+Some analysts believe that Sony's PlayStation 3 video game console played an important role in the format war, believing that it acted as a catalyst for Blu-ray Disc, as the PlayStation 3 used a Blu-ray Disc drive as its primary information storage medium. They also credited Sony's more thorough and influential marketing campaign.
+
+End of the format war and future prospects
+On January 4, 2008, a day before CES 2008, Warner Bros. (the only major studio still releasing movies in both HD DVD and Blu-ray Disc format) announced that it would release only in Blu-ray Disc after May 2008. This effectively included other studios that came under the Warner umbrella, such as New Line Cinema and HBO—though in Europe, HBO distribution partner the BBC announced it would, while keeping an eye on market forces, continue to release product on both formats. This led to a chain reaction in the industry, with major U.S. retailers such as Best Buy, Wal-Mart, and Circuit City and Canadian chains such as Future Shop dropping HD DVD in their stores. A former major European retailer, Woolworths, dropped HD DVD from its inventory.   citation needed    Netflix and Blockbuster—major DVD rental companies—said they would no longer carry HD DVDs. Following these new developments, on February 19, 2008, Toshiba announced it would end production of HD DVD devices, allowing Blu-ray Disc to become the industry standard for high-density optical discs. Universal Studios, the sole major movie studio to back HD DVD since its inception, said shortly after Toshiba's announcement, "While Universal values the close partnership we have shared with Toshiba, it is time to turn our focus to releasing new and catalog titles on Blu-ray Disc." Paramount Studios, which started releasing movies only in HD DVD format during late 2007, also said it would start releasing in Blu-ray Disc. Both studios announced initial Blu-ray lineups in May 2008. With this, all major Hollywood studios now support Blu-ray.
+
+According to Adams Media Research, high-definition software sales were slower in the first two years than standard DVD software sales.  [ (videobusiness.com)  ()]. 2008-02-15 .   . Retrieved 2008-12-28 .        16.3 million standard DVD software units were sold in the first two years (1997–98) compared to 8.3 million high-definition software units (2006–07).   [ (MovieWeb.com)  ()]. February 20, 2008 .   . Retrieved 2008-12-28 .        One reason given for this difference was the smaller marketplace (26.5 million HDTVs in 2007 compared to 100 million SDTVs in 1998).   Former HD DVD supporter Microsoft has stated that they are not planning to make a Blu-ray Disc drive for the Xbox 360.
+
+Blu-ray Disc began making serious strides as soon as the format war ended. Nielsen VideoScan sales numbers showed that with some titles, such as 20th Century Fox's Hitman, up to 14% of total disc sales were from Blu-ray, although the average for the first half of the year was around 5%. Shortly after the format war ended, a study by The NPD Group found that awareness of Blu-ray Disc had reached 60% of U.S. households. In December 2008, the Blu-ray Disc of The Dark Knight sold 600,000 copies on the first day of its launch in the United States, Canada, and the United Kingdom.  [ (highdefdigest.com)  ()]. 2008-12-11 .   . Retrieved 2009-02-17 .        A week after launch, The Dark Knight BD had sold over 1.7 million copies worldwide, making it the first Blu-ray Disc title to sell over a million copies in the first week of release.  [ (highdefdigest.com)  ()]. 2008-12-17 .   . Retrieved 2009-02-17 .    
+
+According to Singulus Technologies AG, Blu-ray is being adopted faster than the DVD format was at a similar period in its development. This conclusion was based on the fact that Singulus Technologies has received orders for 21 Blu-ray dual-layer machines during the first quarter of 2008, while 17 DVD machines of this type were made in the same period in 1997. And the other key equipment supplier for optical disc Anwell Technologies Limited had shipped its Blu-ray disc production equipment to Frankfurt for the largest trade show in the world — MEDIA-TECH Expo in May 2008 and they received new order for the Blu-ray production line also. According to GfK Retail and Technology, in the first week of November 2008, sales of Blu-ray recorders surpassed DVD recorders in Japan. According to the Digital Entertainment Group, the total number of Blu-ray Disc playback devices (both set-top box and game console) had reached 9.6 million by the end of 2008.  [ (storagenewsletter.com)  ()]. 2009-02-16 .   . Retrieved 2009-02-17 .        According to Swicker & Associates, Blu-ray Disc software sales in the United States and Canada were 1.2 million in 2006, 19.2 million in 2007, and 82.4 million in 2008.   Some commentators have suggested that renting blu-ray will play a vital part in keeping the technology affordable while allowing it to move forward.  [ (choosedvdrental.co.uk)  ()]. 2009-01-07 .   . Retrieved 2009-10-28 .    
+
+While Blu-ray player prices fell below $100 during the 2009 Christmas holidays, more movies on DVDs were sold because Blu-ray discs will not play on standard DVD players. Blu-ray discs are usually priced $10 more than DVDs but do not cost much more to produce.   citation needed    In an effort to increase sales, studios are releasing movies in combo packs with Blu-ray discs and DVDs as well as "digital copies" which can be played on computers and iPods. Some are released on "flipper" discs with Blu-ray on one side and DVD on the other. Other strategies are to release movies with the special features only on Blu-ray discs and none on DVDs. Blu-ray faces competition from new technologies that allow access to movies on any format or device, such as Digital Entertainment Content Ecosystem or Disney's Keychest.
+
+Technical specifications
+
+High-definition video may be stored on Blu-ray ROM discs with up to 1920×1080 pixel resolution at up to 60 frames per second interlaced or 24 frames per second progressive:
+
+Notes:    1  NTSC Regions only  :  2  All other Regions
+
+Laser and optics
+Blu-ray Disc uses a "blue" (technically violet) laser, operating at a wavelength of 405 nm, to read and write data. The diodes are InGaN (Indium Gallium Nitride) lasers that produce 405 nm photons directly, that is, without frequency doubling or other nonlinear optical mechanisms.  Conventional DVDs and CDs use red and near-infrared lasers, at 650 nm and 780 nm, respectively.
+
+Panasonic Internal Blu-ray ROM notebook drive. Ships with select Sony VAIO notebooks
+
+The blue-violet laser's shorter wavelength makes it possible to store more information on a 12 cm CD/DVD-size disc. The minimum "spot size" on which a laser can be focused is limited by diffraction, and depends on the wavelength of the light and the numerical aperture of the lens used to focus it. By decreasing the wavelength, increasing the numerical aperture from 0.60 to 0.85, and making the cover layer thinner to avoid unwanted optical effects, the laser beam can be focused to a smaller spot. This allows more information to be stored in the same area. For Blu-ray Disc, the spot size is 580 nm. In addition to the optical improvements, Blu-ray Discs feature improvements in data encoding that further increase the capacity. (See Compact Disc for information on optical discs' physical structure.)
+
+Hard-coating technology
+Since the Blu-ray Disc data layer is closer to the surface of the disc compared to the DVD standard, it was at first more vulnerable to scratches.  Blu-ray Disc Founders (2004-08).  () .   . Retrieved 2009-04-16 .        The first discs were housed in cartridges for protection, resembling Professional Discs introduced by Sony in 2003.
+
+Using a cartridge would increase the price of an already expensive medium, so hard-coating of the pickup surface was chosen instead. TDK was the first company to develop a working scratch-protection coating for Blu-ray Discs. It was named Durabis. In addition, both Sony and Panasonic's replication methods include proprietary hard-coat technologies. Sony's rewritable media are spin-coated, using a scratch-resistant and antistatic coating. Verbatim's recordable and rewritable Blu-ray Discs use their own proprietary hard-coat technology, called ScratchGuard.
+
+All Blu-Ray Disc media are required by specification to be scratch-resistant.  Blu-ray Disc Association (2007-03).  () .   . Retrieved 2009-11-15 .        DVD media are not required to be scratch-resistant, but since development of the technology, some companies, such as Verbatim, implemented hard-coating for more expensive lineups of recordable DVDs.
+
+Recording speed
+
+Comparison to other video formats
+Below is a list of modern, digital-style resolutions (and traditional analog "TV lines per picture height" measurements) for various media. The list only includes popular formats.
+
+* 352×288/240 (250 lines at low-definition): Video CD  (PAL/NTSC)
+* 352×576/480 (250 lines): Umatic, Betamax, VHS, Video8  (PAL/NTSC)
+* 420×576/480 (300 lines): Super Betamax, Betacam (professional)  (PAL/NTSC)
+* 460×576/480 (330 lines): Analog Broadcast  (PAL/NTSC)
+* 590×576/480 (420 lines): LaserDisc, Super VHS, Hi8  (PAL/NTSC)
+* 700×576/480 (500 lines): Enhanced Definition Betamax  (PAL/NTSC)
+Digital formats:
+* 720×576/480 (500 lines): DVD, miniDV, Digital8  (PAL/NTSC)
+* 720×576/480 (380 lines): Widescreen DVD  (PAL/NTSC)
+* 1280×720    (680 lines): Blu-ray, D-VHS
+* 1440×1080   (760 lines): miniHDV, D-VHS
+* 1920×1080   (1020 lines): Blu-ray
+
+Software standards
+Codecs
+The BD-ROM specification mandates certain codec compatibilities for both hardware decoders (players) and movie software (content).  Blu-ray Disc Association (2005-03), [,  White paper Blu-ray Disc Format - 2.B Audio Visual Application Format Specifications for BD-ROM  
+       }}
+    }}     {{
+      #if: 
+      |{{
+         #if: 
+         | : ] , p. 15 ,   , retrieved 2009-07-26        
+Video
+For video, all players are required to support MPEG-2 Part 2, H.264/MPEG-4 AVC, and SMPTE VC-1. MPEG-2 is the codec used on regular DVDs, which allows backwards compatibility. MPEG-4 AVC was developed by MPEG, Sony, and VCEG. VC-1 is a codec that was mainly developed by Microsoft. BD-ROM titles with video must store video using one of the three mandatory codecs; multiple codecs on a single title are allowed.
+
+The choice of codecs affects the producer's licensing/royalty costs as well as the title's maximum run time, due to differences in compression efficiency. Discs encoded in MPEG-2 video typically limit content producers to around two hours of high-definition content on a single-layer (25 GB) BD-ROM. The more-advanced video codecs (VC-1 and MPEG-4 AVC) typically achieve a video run time twice that of MPEG-2, with comparable quality.
+
+MPEG-2 was used by many studios (including Paramount Pictures, which initially used the VC-1 codec for HD DVD releases) for the first series of Blu-ray discs, which were launched throughout 2006.   citation needed     Modern releases are now often encoded in either MPEG-4 AVC or VC-1, allowing film studios to place all content on one disc, reducing costs and improving ease of use. Using these codecs also frees a lot of space for storage of bonus content in HD (1080i/p), as opposed to the SD (480i/p) typically used for most titles. Some studios, such as Warner Bros., have released bonus content on discs encoded in a different codec than the main feature title. For example, the Blu-ray Disc release of Superman Returns uses VC-1 for the feature film and MPEG-2 for bonus content.   citation needed    Today, Warner and other studios typically provide bonus content in the video codec that matches the feature.
+
+Audio
+For audio, BD-ROM players are required to support Dolby Digital (AC-3), DTS, and linear PCM. Players may optionally support Dolby Digital Plus and DTS-HD High Resolution Audio as well as lossless formats Dolby TrueHD and DTS-HD Master Audio. BD-ROM titles must use one of the mandatory schemes for the primary soundtrack. A secondary audiotrack, if present, may use any of the mandatory or optional codecs.
+
+Bitrate
+For users recording digital television programming, the recordable Blu-ray Disc standard's initial data rate of 36 Mbit/s is more than adequate to record high-definition broadcasts from any source (IPTV, cable/satellite, or terrestrial). BD Video movies have a maximum data transfer rate of 54 Mbit/s, a maximum AV bitrate of 48 Mbit/s (for both audio and video data), and a maximum video bitrate of 40 Mbit/s. This compares to HD DVD movies, which have a maximum data transfer rate of 36 Mbit/s, a maximum AV bitrate of 30.24 Mbit/s, and a maximum video bitrate of 29.4 Mbit/s.
+
+Container Format
+Audio, video and other streams are multiplexed and stored on Blu-ray Video discs in a container format based on the MPEG transport stream. It is also known as BDAV MPEG-2 transport stream and can use filename extension .m2ts.  Videohelp.com What is Blu-ray Disc and HD DVD?, Retrieved on 2009-07-26  Blu-ray Disc Video titles authored with menu support are in the BDMV (Blu-ray Disc Movie) format and contain audio, video, and other streams in BDAV container. AfterDawn.com Glossary - BD-MV (Blu-ray Movie) and BDAV container, Retrieved on 2009-07-26  AfterDawn.com Glossary - BDAV container, Retrieved on 2009-07-26  There is also the BDAV (Blu-ray Audio/Visual) disc format, the consumer oriented alternative to the BDMV discs made for movie releases. BDAV disc format is used on BD-RE and BD-R discs for audio/video recording.  Blu-ray employs the MPEG transport stream recording method. That enables transport streams of digital broadcasts to be recorded as they are without altering the format. Blu-ray Disc Association (March 2008) BD-RE - Audiovisual Application Format Specification for BD-RE 2.1 (PDF), Technical White Papers - BD RE, Retrieved on 2009-07-28  It also enables flexible editing of a digital broadcast that is recorded as is and where the data can be edited just by rewriting the playback stream. Although it is quite natural, a function for high-speed and easy-to use retrieval is built in.  Blu-ray Disc Association (August 2004) Blu-ray Disc Format, White paper (PDF) Page 22, Retrieved on 2009-07-28  Blu-ray Disc Video use MPEG transport streams, compared to DVD's MPEG program streams. This allows multiple video programs to be stored in the same file so they can be played back simultaneously (e.g., with "Picture in picture" effect).
+
+Java software support
+ Main article: BD-J 
+At the 2005 JavaOne trade show, it was announced that Sun Microsystems' Java cross-platform software environment would be included in all Blu-ray Disc players as a mandatory part of the standard.   citation needed     Java is used to implement interactive menus on Blu-ray Discs, as opposed to the method used on DVD video discs. DVDs use pre-rendered MPEG segments and selectable subtitle pictures, which are considerably more primitive and rarely seamless. At the conference, Java creator James Gosling suggested that the inclusion of a Java Virtual Machine, as well as network connectivity in some BD devices, will allow updates to Blu-ray Discs via the Internet, adding content such as additional subtitle languages and promotional features not included on the disc at pressing time.   citation needed    This Java Version is called BD-J and is a subset of the Globally Executable MHP (GEM) standard; GEM is the worldwide version of the Multimedia Home Platform standard. Most Blu-ray Discs that have BD-J menus do not allow a Blu-ray Disc player to automatically resume a movie from the point at which it was stopped.   citation needed  
+
+Region codes
+Regions for the Blu-ray standard: 
+        A/1: The Americas, and their dependencies, East Asia (except Mainland China and Mongolia), Southeast Asia and Japan. 
+        B/2: Africa, Southwest Asia, Europe (except Belarus, Russia and Ukraine), Oceania, and their dependencies. 
+        C/3: Central Asia, East Asia (Mainland China and Mongolia only), South Asia, Eastern Europe, and their dependencies.  
+
+As with the implementation of region codes for DVDs, Blu-ray Disc players sold in a specific geographical region are designed to play only discs authorized by the content provider for that region.  This is intended to permit content providers (motion picture studios, etc.) the ability to support product differences in content, price, release date, etc., by region.  According to the Blu-ray Disc Association, "all Blu-ray Disc players...(and) Blu-ray Disc-equipped computer systems are required to support regional coding."  However, "Use of region playback codes is optional for content providers..."   Some current estimates suggest 70% of available Blu-ray (movie) discs from the major studios are region-code-free and can therefore be played on any Blu-ray Disc player, in any region.
+
+Movie studios have different region coding policies. Among major U.S. studios, Paramount Pictures and Universal Studios have released all of their titles region-free. Sony Pictures and Warner Bros. have released most of their titles region-free. Lionsgate and Walt Disney Pictures have released a mix of region-free and region-coded titles. 20th Century Fox and MGM have released most of their titles region-coded.
+
+The Blu-ray Disc region coding scheme divides the world into 3 regions, labelled 'A', 'B' and 'C'.
+*Region A includes most North, Central and South American and Southeast Asian countries plus Taiwan, Hong Kong, Japan and Korea.
+*Region B includes most European, African and southwest Asian countries plus Australia and New Zealand.
+*Region C contains the remaining central and south Asian countries, as well as China and Russia.
+
+In attempts to circumvent region coding restrictions, stand-alone Blu-ray Disc players are sometimes modified by third parties to allow for playback of Blu-ray (and DVD) discs with any region code.  Instructions ('hacks') describing how to reset the Blu-ray region counter of some computer BD Disc player applications to make them multi-region indefinitely are also regularly posted to video-enthusiast websites and forums. Unlike DVD region codes, Blu-ray region codes are verified only by the player software, not by the drive and the computer operating system. The code is stored in a file of the player program or in the registry. In stand-alone players, it is part of the firmware.
+
+Digital rights management
+The Blu-ray Disc format employs several layers of digital rights management.  [ (DELL)  ()] .   . Retrieved 2007-05-03 .       
+The AACS decryption process.
+
+AACS
+The Advanced Access Content System (AACS) is a standard for content distribution and digital rights management. It was developed by AS Licensing Administrator, LLC (AACS LA), a consortium that includes Disney, Intel, Microsoft, Panasonic, Warner Bros., IBM, Toshiba, and Sony.
+
+Since appearing in devices in 2006, several successful attacks have been made on the format. The first known attack relied on the trusted client problem. In addition, decryption keys have been extracted from a weakly protected player (WinDVD). Since keys can be revoked in newer releases, this is only a temporary attack, and new keys must continually be discovered in order to decrypt the latest discs. This cat-and-mouse game has gone through several cycles.
+
+BD+
+BD+ was developed by Cryptography Research Inc. and is based on their concept of Self-Protecting Digital Content. BD+, effectively a small virtual machine embedded in authorized players, allows content providers to include executable programs on Blu-ray Discs. Such programs can: 
+* examine the host environment to see if the player has been tampered with. Every licensed playback device manufacturer must provide the BD+ licensing authority with memory footprints that identify their devices.
+* verify that the player's keys have not been changed.
+* execute native code, possibly to patch an otherwise insecure system.
+* transform the audio and video output. Parts of the content will not be viewable without letting the BD+ program unscramble it.
+
+If a playback device manufacturer finds that its devices have been hacked, it can potentially release BD+ code that detects and circumvents the vulnerability. These programs can then be included in all new content releases.   citation needed  
+
+The specifications of the BD+ virtual machine are available only to licensed device manufacturers. A list of licensed commercial adopters is available from the BD+ website.
+
+The first titles using BD+ were released in October 2007. Versions of BD+ protection have been circumvented by various versions of the AnyDVD HD program. Another program known to be capable of circumventing BD+ protection is DumpHD (versions 0.6 and above, along with some supporting software), which is available with freeware license and known to be compatible with Mac OS X, Linux, Windows and other platforms running Java.
+
+BD-ROM Mark
+BD-ROM Mark is a small amount of cryptographic data that is stored separately from normal Blu-ray Disc data. Bit-by-bit copies that do not replicate the BD-ROM Mark are impossible to decode.   citation needed    A specially licensed piece of hardware is required to insert the ROM-mark into the media during replication. Through licensing of the special hardware element, the BDA believes that it can eliminate the possibility of mass producing BD-ROMs without authorization.   citation needed  
+
+Player profiles
+The BD-ROM specification defines four Blu-ray Disc player profiles, including an audio-only player profile (BD-Audio) that does not require video decoding or BD-J. All three of the video-based player profiles (BD-Video) are required to have a full implementation of BD-J, with varying levels of hardware support.
+
+^  a This is used for storing audio/video and title updates. It can either be built-in memory or removable media, such as a memory card or USB flash memory.
+
+^  b A secondary audio decoder is typically used for interactive audio and commentary.
+
+^  c Profile 3.0 is a separate audio-only player profile. The first Blu-ray Disc album to be released was Divertimenti, by record label Lindberg Lyd, and it has been confirmed to work on the PS3.
+
+^  d Also known as Initial Standard profile.
+
+^  e Also known as Final Standard profile.
+
+On November 1, 2007, the Grace Period Profile was superseded by Bonus View as the minimum profile for new BD-Video players released to the market.   () .  .        When Blu-ray Disc software not authored with interactive features dependent on Bonus View or BD-Live hardware capabilities is played on Profile 1.0 players, it is able to play the main feature of the disc, but some extra features may not be available or will have limited capability.
+
+BD-Live
+The biggest difference between Bonus View and BD-Live is that BD-Live requires the Blu-ray Disc player to have an Internet connection to access Internet-based content. BD-Live features have included Internet chats, scheduled chats with the director, Internet games, downloadable featurettes, downloadable quizzes, and downloadable movie trailers. Note that while some Bonus View players may have an Ethernet port, these are used for firmware updates and are not used for Internet-based content.   citation needed     In addition, Profile 2.0 also requires more local storage in order to handle this content.
+
+With the exception of the latest players and the PlayStation 3, Profile 1.0 players cannot be upgraded to be Bonus View or BD-Live compliant.
+
+Backward compatibility
+Though not compulsory, the Blu-ray Disc Association recommends that Blu-ray Disc drives be capable of reading standard DVDs and CDs, for backward compatibility. A few early Blu-ray Disc players released in 2006 could play standard DVDs, but not CDs.
+
+Ongoing development
+Front of an experimental 200GB rewritable Blu-ray Disc.
+Although the Blu-ray Disc specification has been finalized, engineers continue to work on advancing the technology. Quad-layer (100 GB) discs have been demonstrated on a drive with modified optics (TDK version) and standard unaltered optics ("Hitachi used a standard drive.").
+Hitachi stated that such a disc could be used to store 7 hours of 32 Mbit/s video (HDTV) or 3 hours and 30 minutes of 64 Mbit/s video (Cinema 4K). In August 2006, TDK announced that they have created a working experimental Blu-ray Disc capable of holding 200 GB of data on a single side, using six 33 GB data layers.  [ (TDK)  ()]. August 31, 2006 .   . Retrieved 2006-11-27 .    
+
+Also, behind closed doors at CES 2007, Ritek revealed that they had successfully developed a High Definition optical disc process that extends the disc capacity to ten layers, which increases the capacity of the discs to 250 GB. However, they noted that the major obstacle is that current read/write technology does not support the additional layers.
+
+JVC has developed a three-layer technology that allows putting both standard-definition DVD data and HD data on a BD/(standard) DVD combination. If successfully commercialized, this would enable the consumer to purchase a disc that can be played on current DVD players and can also reveal its HD version when played on a BD player. Japanese optical disc manufacturer Infinity announced the first "hybrid" Blu-ray Disc/(standard) DVD combo, to be released February 18, 2009. "Code Blue" will feature four hybrid discs containing a single Blu-ray Disc layer (25 GB) and two standard DVD layers (9 GB) on the same side of the disc.
+
+In January 2007, Hitachi showcased a 100 GB Blu-ray Disc, consisting of four layers containing 25 GB each. Unlike TDK and Panasonic's 100 GB discs, they claim this disc is readable on standard Blu-ray Disc drives that are currently in circulation, and it is believed that a firmware update is the only requirement to make it readable to current players and drives.
+
+In December 2008, Pioneer Corporation unveiled a 400 GB Blu-ray Disc (containing 16 data layers, 25 GB each) that will be compatible with current players after a firmware update. Its planned launch is in the 2009–10 time frame for ROM and 2010–13 for rewritable discs. Ongoing development is under way to create a 1 TB Blu-ray Disc as soon as 2013.
+
+At CES 2009, Panasonic unveiled the DMP-B15, the first portable Blu-ray Disc player, and Sharp introduced the LC-BD60U and LC-BD80U series, the first LCD HDTVs with integrated Blu-ray Disc players. Sharp has also announced that they will sell HDTVs with integrated Blu-ray Disc recorders in the United States by the end of 2009.
+
+as of April 2008 [action=edit  update ]    dated info   , a joint licensing agreement for Blu-ray Disc has not yet been finalized. A joint licensing agreement would make it easier for companies to get a license for Blu-ray Disc without having to go to each individual company that owns a Blu-ray Disc patent. For this reason, a joint licensing agreement was eventually made for DVD by the DVD6C Licensing Agency.
+
+The Blu-ray Disc Association created a task force made up of executives from the film industry and the consumer electronics and IT sectors to help define standards for putting 3D television content on a Blu-ray Disc. On Dec. 17, 2009 the BDA officially announced 3D specs for Blu-ray Disc, allowing backward compatibility with current 2D Blu-ray players. "The Blu-ray 3D specification calls for encoding 3D video using the Multiview Video Coding (MVC) codec, an extension to the ITU-T H.264 Advanced Video Coding (AVC) codec currently supported by all Blu-ray Disc players. MPEG4-MVC compresses both left and right eye views with a typical 50% overhead compared to equivalent 2D content, and can provide full 1080p resolution backward compatibility with current 2D Blu-ray Disc players."  Also, according to Sony, PlayStation 3 consoles will be eligible for a firmware upgrade to display the 3D discs.
+
+On Jan. 1, 2010, Sony, in association with Panasonic, announced plans to increase the storage capacity on their Blu-Ray discs from 25GB to 35.4GB. The increased discs, according to Sony, will be readable on current Blu-ray Disc players with a firmware upgrade. No date has been set to include the increased space, but according to Blu-ray.com "it will likely happen sometime later this year."
+
+Variants
+Mini Blu-ray Disc
+The "Mini Blu-ray Disc" (also, "Mini-BD" and "Mini Blu-ray") is a compact 8 cm (~3 in)-diameter variant of the Blu-ray Disc that can store approximately 7.5 GB of data. It is similar in concept to the MiniDVD and MiniCD. Recordable (BD-R) and rewritable (BD-RE) versions of Mini Blu-ray Disc have been developed specifically for compact camcorders and other compact recording devices.   () .  .    
+
+Blu-ray Disc recordable
+ Main article: Blu-ray Disc recordable 
+"Blu-ray Disc recordable" refers to two optical disc formats that can be recorded with an optical disc recorder. BD-R discs can be written to once, whereas BD-RE can be erased and re-recorded multiple times. The current practical maximum speed for Blu-ray Discs is about 12×. Higher speeds of rotation (10,000+ rpm) cause too much wobble for the discs to be read properly, as with the 20× and 52× maximum speeds, respectively, of standard DVDs and CDs.
+
+Since September 2007, BD-RE is also available in the smaller 8 cm Mini Blu-ray Disc size.
+
+On September 18, 2007, Pioneer and Mitsubishi codeveloped BD-R LTH ("Low to High" in groove recording), which features an organic dye recording layer that can be manufactured by modifying existing CD-R and DVD-R production equipment, significantly reducing manufacturing costs. In February 2008, Taiyo Yuden, Mitsubishi, and Maxell released the first BD-R LTH Discs, and in March 2008, Sony's PlayStation 3 gained official support for BD-R LTH Discs with the 2.20 firmware update. In May 2009 Verbatim/Mitsubishi announced the industry's first 6X BD-R LTH media, which allows recording a 25 GB disc in about 16 minutes.
+
+Unlike the previous releases of 120 mm optical discs (i.e., CDs and standard DVDs), Blu-ray recorders hit the market almost simultaneously with Blu-ray's debut.
+
+BD9 and BD5
+
+The BD9 format was proposed to the Blu-ray Disc Association by Warner Home Video as a cost-effective alternative to the 25/50 GB BD-ROM discs. The format was supposed to use the same codecs and program structure as Blu-ray Disc video, but recorded onto less expensive 9 GB dual-layer DVD disc. This red-laser media could be manufactured on existing DVD production lines with lower costs of production than the 25/50 GB Blu-ray media.
+
+Usage of BD9 for releasing content on "pressed" discs has never caught on. After the end of the format war, major producers ramped up the production of Blu-ray discs and lowered their prices to the level of DVD discs. On the other hand, the idea of using inexpensive DVD media became popular among individual users. A lower-capacity version of this format that uses single-layer 4.5 GB DVD discs has been unofficially called BD5. Both formats are being used by individual users for recording high definition content in Blu-ray format onto recordable DVD media.   () .  .    
+
+Despite the fact that the BD9 format has been adopted as part of the BD-ROM basic format, none of existing Blu-ray player models supports it explicitly. As such, the discs recorded in BD9 and BD5 formats are not guaranteed to play on standard Blu-ray Disc players.
+
+AVCHD and AVCREC also use inexpensive media like DVD discs, but unlike BD9 and BD5 these formats have limited interactivity, codec types, and data rates.
+
+AVCHD
+ Main article: AVCHD 
+AVCHD was originally developed as a high definition format for consumer tapeless camcorders. Derived from the Blu-ray Disc specification, AVCHD uses lower data rate, simpler interactivity and cheaper media. AVCHD specification allows recording AVC-encoded video onto DVD discs, as well as onto other types of random access media like SD/SDHC memory cards, "Memory Stick" cards and hard disk drives.
+
+Being primarily an acquisition format, AVCHD can also be used for distribution of high definition video using inexpensive media like conventional DVD discs and flash memory cards. Many Blu-Ray Disc players support AVCHD playback from DVD discs. Many Panasonic and JVC HD television sets and Blu-Ray Disc players support AVCHD playback from SDHC memory cards.
+
+AVCREC
+ Main article: AVCREC 
+AVCREC uses BDAV container to record high definition content on conventional DVD discs. Presently AVCREC is tightly integrated with Japanese ISDB broadcast standard and is not marketed outside of Japan. AVCREC is used primarily in set-top digital video recorders and in this regard is comparable to HD REC.
+
+See also
+
+* Blu-ray Disc authoring
+* Blu-ray Disc recordable
+* Comparison of high definition optical disc formats
+* HD DVD
+* HDTV
+
+References
+
+External links
+
+* Blu-ray Disc Association
+* Blu-ray Disc Association's Technical White Papers
+* Blu-ray Disc License Web Site
+* AACSLA.com
+
+Videodisc
+

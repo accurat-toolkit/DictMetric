@@ -1,0 +1,11 @@
+/home/fzsu/DictMetric/sample/EN/agriculture_en.txt
+/home/fzsu/DictMetric/sample/EN/alcohol_en.txt
+/home/fzsu/DictMetric/sample/EN/cystitis_en.txt
+/home/fzsu/DictMetric/sample/EN/hockey3_en.txt
+/home/fzsu/DictMetric/sample/EN/instruction7_en.txt
+/home/fzsu/DictMetric/sample/EN/omeprazol_en.txt
+/home/fzsu/DictMetric/sample/EN/plant_en.txt
+/home/fzsu/DictMetric/sample/EN/skiing11_en.txt
+/home/fzsu/DictMetric/sample/EN/traffic_en.txt
+/home/fzsu/DictMetric/sample/EN/wikipedia_blu-ray_disc_en.txt
+/home/fzsu/DictMetric/sample/EN/wikipedia_video_card_en.txt

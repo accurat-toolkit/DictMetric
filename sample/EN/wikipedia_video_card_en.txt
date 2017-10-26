@@ -1,0 +1,123 @@
+
+ This message box is using an invalid "type=style" parameter and needs fixing.
+
+A video card, video adapter, graphics-accelerator card, display adapter or graphics card is an expansion card whose function is to generate and output images to a display. Many video cards offer added functions, such as accelerated rendering of 3D scenes and 2D graphics, video capture, TV-tuner adapter, MPEG-2 and MPEG-4 decoding, FireWire, light pen, TV output, or  the ability to connect multiple monitors (multi-monitor), while other modern high performance cards are used for more graphically demanding purposes such as PC games.
+
+Video hardware can be integrated on the motherboard, as it often happened with early computers; in this configuration it was sometimes referred to as a video controller or graphics controller.
+
+ History 
+
+The first IBM PC video card, which was released with the first IBM PC, was developed by IBM in 1981. The MDA (Monochrome Display Adapter) could only work in text mode representing 80 columns and 25 lines (80x25) in the screen. It had a 4KB video memory and just one color.
+
+Starting with the MDA in 1981, several video cards were released, which are summarized in the attached table.
+
+VGA was widely accepted, which led some corporations such as ATI, Cirrus Logic and S3 to work with that video card, improving its resolution and the number of colours it used. This developed into the SVGA (Super VGA) standard, which reached 2 MB of video memory and a resolution of 1024x768 at 256 color mode.
+
+In 1995 the first consumer 2D/3D cards were released, developed by Matrox, Creative, S3, ATI and others.   citation needed    These video cards followed the SVGA standard, but incorporated 3D functions. In 1997, 3dfx released the Voodoo graphics chip, which was more powerful compared to other consumer graphics cards, introducing 3D effects such as mip mapping, Z-buffering and anti-aliasing into the consumer market. After this card, a series of 3D video cards were released, such as Voodoo2 from 3dfx, TNT and TNT2 from NVIDIA. The bandwidth required by these cards was approaching the limits of the PCI bus capacity. Intel developed the AGP (Accelerated Graphics Port) which solved the bottleneck between the microprocessor and the video card. From 1999 until 2002, NVIDIA controlled the video card market (taking over 3dfx) with the GeForce family. The improvements carried out at this time were focused in 3D algorithms and graphics processor clock rate. Video memory was also increased to improve their data rate; DDR technology was incorporated, improving the capacity of video memory from 32 MB with GeForce to 128 MB with GeForce 4.
+
+From 2002 onwards, the video card market came to be dominated almost entirely by the competition between ATI and Nvidia, with their Radeon and Geforce lines respectively, taking around 90% of the independent graphics card market between them, while other manufacturers were forced into much smaller, niche markets.
+
+ Components 
+A modern video card consists of a printed circuit board on which the components are mounted. These include:
+
+ Graphics processing unit (GPU) 
+ Main article: Graphics processing unit 
+A GPU is a dedicated processor optimized for accelerating graphics. The processor is designed specifically to perform floating-point calculations, which are fundamental to 3D graphics rendering. The main attributes of the GPU are the core clock frequency, which typically ranges from 250 MHz to 4 GHz and the number of pipelines (vertex and fragment shaders), which translate a 3D image characterized by vertices and lines into a 2D image formed by pixels.
+
+ Video BIOS 
+The video BIOS or firmware contains the basic program, which is usually hidden, that governs the video card's operations and provides the instructions that allow the computer and software to interact with the card. It may contain information on the memory timing, operating speeds and voltages of the graphics processor, RAM, and other information. It is sometimes possible to change the BIOS (e.g. to enable factory-locked settings for higher performance), although this is typically only done by video card overclockers and has the potential to irreversibly damage the card.
+
+ Video memory 
+
+The memory capacity of most modern video cards ranges from 128 MB to 4 GB, though very few cards actually go over 1 GB. Since video memory needs to be accessed by the GPU and the display circuitry, it often uses special high-speed or multi-port memory, such as VRAM, WRAM, SGRAM, etc.  Around 2003, the video memory was typically based on DDR technology. During and after that year, manufacturers moved towards DDR2, GDDR3, GDDR4, and even GDDR5 utilized most notably by the ATI Radeon HD 4870. The effective memory clock rate in modern cards is generally between 400 MHz and 3.8 GHz.
+
+Video memory may be used for storing other data as well as the screen image, such as the Z-buffer, which manages the depth coordinates in 3D graphics, textures, vertex buffers, and compiled shader programs.
+
+ RAMDAC 
+
+The RAMDAC, or Random Access Memory Digital-to-Analog Converter, converts digital signals to analog signals for use by a computer display that uses analog inputs such as CRT displays. The RAMDAC is a kind of RAM chip that regulates the functioning of the graphic card. Depending on the number of bits used and the RAMDAC-data-transfer rate, the converter will be able to support different computer-display refresh rates. With CRT displays, it is best to work over 75 Hz and never under 60 Hz, in order to minimize flicker. (With LCD displays, flicker is not a problem.) Due to the growing popularity of digital computer displays and the integration of the RAMDAC onto the GPU die, it has mostly disappeared as a discrete component.  All current LCDs, plasma displays and TVs work in the digital domain and do not require a RAMDAC.  There are few remaining legacy LCD and plasma displays that feature analog inputs (VGA, component, SCART etc.) only. These require a RAMDAC, but they reconvert the analog signal back to digital before they can display it, with the unavoidable loss of quality stemming from this digital-to-analog-to-digital conversion.
+
+ Outputs 
+9-pin VIVO for S-Video (TV-out), DVI for HDTV, and DE-15 for VGA outputs.
+The most common connection systems between the video card and the computer display are:
+
+ Video Graphics Array (VGA) (DE-15) 
+Video Graphics Array (VGA) (DE-15).
+Analog-based standard adopted in the late 1980s designed for CRT displays, also called VGA connector. Some problems of this standard are electrical noise, image distortion and sampling error evaluating pixels.
+
+ Digital Visual Interface (DVI) 
+Digital Visual Interface (DVI).
+Digital-based standard designed for displays such as flat-panel displays (LCDs, plasma screens, wide high-definition television displays) and video projectors. It avoids image distortion and electrical noise, corresponding each pixel from the computer to a display pixel, using its native resolution.
+
+ Video In Video Out (VIVO) for S-Video, Composite video and Component video 
+
+
+Included to allow the connection with televisions, DVD players, video recorders and video game consoles. They often come in two 9-pin Mini-DIN connector variations, and the VIVO splitter cable generally comes with either 4 connectors (S-Video in and out + composite video in and out), or 6 connectors (S-Video in and out + component P B  out + component P R  out + component Y out [also composite out] + composite in).
+
+ High-Definition Multimedia Interface (HDMI) 
+
+An advanced digital audio/video interconnect released in 2003 and is commonly used to connect game consoles and DVD players to a display. HDMI supports copy protection through HDCP.
+
+ DisplayPort 
+
+An advanced license- and royalty-free digital audio/video interconnect released in 2007. DisplayPort intends to replace VGA and DVI for connecting a display to a computer..
+
+ Other types of connection systems 
+
+ Motherboard interface 
+
+Main articles: Bus (computing) and Expansion card
+
+Chronologically, connection systems between video card and motherboard were, mainly:
+*S-100 bus: designed in 1974 as a part of the Altair 8800, it was the first industry-standard bus for the microcomputer industry.
+*ISA: Introduced in 1981 by IBM, it became dominant in the marketplace in the 1980s. It was an 8 or 16-bit bus clocked at 8 MHz.
+*NuBus: Used in Macintosh II, it was a 32-bit bus with an average bandwidth of 10 to 20 MB/s.
+*MCA: Introduced in 1987 by IBM it was a 32-bit bus clocked at 10 MHz.
+*EISA: Released in 1988 to compete with IBM's MCA, it was compatible with the earlier ISA bus. It was a 32-bit bus clocked at 8.33 MHz.
+*VLB: An extension of ISA, it was a 32-bit bus clocked at 33 MHz.
+*PCI: Replaced the EISA, ISA, MCA and VESA buses from 1993 onwards. PCI allowed dynamic connectivity between devices, avoiding the jumpers manual adjustments. It is a 32-bit bus clocked 33 MHz.
+*UPA: An interconnect bus architecture introduced by Sun Microsystems in 1995. It had a 64-bit bus clocked at 67 or 83 MHz.
+*USB: Mostly used for other types of devices, but there are USB displays.
+*AGP: First used in 1997, it is a dedicated-to-graphics bus. It is a 32-bit bus clocked at 66 MHz.
+*PCI-X: An extension of the PCI bus, it was introduced in 1998. It improves upon PCI by extending the width of bus to 64-bit and the clock frequency to up to 133 MHz.
+*PCI Express: Abbreviated PCIe, it is a point to point interface released in 2004. In 2006 provided double the data-transfer rate of AGP. It should not be confused with PCI-X, an enhanced version of the original PCI specification.
+
+In the attached table is a comparison between a selection of the features of some of those interfaces.
+
+ Cooling devices 
+
+Main article: Computer cooling
+
+Video cards may use a lot of electricity, which is converted into heat.  If the heat isn't  dissipated, the video card could overheat and be damaged. Cooling devices are incorporated to transfer the heat elsewhere. Three types of cooling devices are commonly used on video cards:
+*Heat sink: a heat sink is a passive-cooling device. It conducts heat away from the graphics card's core, or memory, by using a heat-conductive metal (most commonly aluminum or copper); sometimes in combination with heat pipes. It uses air (most common), or in extreme cooling situations, water (see water block), to remove the heat from the card. When air is used, a fan is often used to increase cooling effectiveness.
+*Computer fan: an example of an active-cooling part. It is usually used with a heat sink. Due to the moving parts, a fan requires maintenance and possible replacement. The fan speed or actual fan can be changed for more efficient or quieter cooling.
+*Water block: a water block is a heat sink suited to use water instead of air. It is mounted on the graphics processor and has a hollow inside. Water is pumped through the water block, transferring the heat into the water, which is then usually cooled in a radiator. This is the most effective cooling solution without extreme modification.
+
+ Power demand 
+As the processing power of video cards has increased, so has their demand for electrical power. Present fast video cards tend to consume a great deal of power. While CPU and power supply makers have recently moved toward higher efficiency, power demands of GPUs have continued to rise, so the video card may be the biggest electricity user in a computer. Although power supplies are increasing their power too, the bottleneck is due to the PCI-Express connection, which is limited to supplying 75 W.
+Nowadays, video cards with a power consumption over 75 watts usually include a combination of six-pin (75W) or eight-pin (150W) sockets that connect directly to the power supply to supplement power.
+
+See also
+*Computer display standards - detailed list of standards like SVGA, WXGA, WUXGA, etc.
+*List of manufacturers
+*ATI, NVIDIA - examples of 3D chip GPU and graphics card designers
+*GeForce, Radeon – Examples of GPUs.
+*Framebuffer - The computer memory used to store a screen image
+*3D computer graphics
+*Z-buffering – A means of determining visibility.
+*Texture mapping - A means of adding image details to a 3D scene
+*Graphics hardware and FOSS
+*Scalable Link Interface - NVIDIA's proprietary mechanism for scaling graphics performance
+*ATI Crossfire - ATI's proprietary mechanism for scaling graphics performance
+*Mini-DIN connector
+*Video In Video Out (VIVO)
+
+References
+
+* Mueller, Scott (2005) Upgrading and Repairing PCs. 16th edition. Que Publishing. ISBN 0-7897-3173-8
+
+External links
+
+* How Graphics Cards Work at HowStuffWorks
+*
+
